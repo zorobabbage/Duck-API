@@ -5,7 +5,7 @@ const db = require('./db/ducks')
 
 const metadataDir = __dirname + '/metadata/'
 let allDucks = []
-
+let mintedDucks = []
 async function loadDucksOnStart () {
     for (let id = 1; id <= 8192; id++) {
         const filePath = `${metadataDir}DUCK_${String(id).padStart(4, "0")}.json`
@@ -13,19 +13,27 @@ async function loadDucksOnStart () {
         const data = fs.readFileSync(filePath)
         const obj = JSON.parse(data)
 
-        allDucks.push({ id: id, data: obj })
+        mintedDucks.push({ id: id, data: obj })
     }
 }
 
+async function getMinted () {
+    currentID = 3960
+    mintedDucks = allDucks.filter(x => x.id <= currentID)
+}
+
+
+
 loadDucksOnStart()
 
-app.listen(5000, () => {
-    console.log('running api')
-})
+// server.js or app.js
+var cors = require('cors')
+
+app.use(cors());
 
 app.get('/duck/:id', async (req, res) => {
     const id = req.params.id
-    res.status(200).send(allDucks.filter(x => x.id == id))
+    res.status(200).send(mintedDucks.filter(x => x.id == id)[0].data)
 })
 
 
@@ -45,15 +53,18 @@ app.get('/ducks', async (req, res) => {
 
     const ids = dbresults.map(x => x.ID)
     let sortOrder = {}
-    let allDucksSorted = allDucks
+    let mintedDucksSorted = mintedDucks
 
     ids.forEach(function (a, i) { sortOrder[a] = i; });
 
-    allDucksSorted.sort(function (a, b) {
+    mintedDucksSorted.sort(function (a, b) {
         return sortOrder[a.id] - sortOrder[b.id];
     });
 
 
-    res.status(200).json(allDucksSorted.slice(from-1, to))
+    res.status(200).json(mintedDucksSorted.slice(from-1, to))
 })
 
+app.listen(5000, () => {
+    console.log('running api')
+})
