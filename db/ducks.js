@@ -1,12 +1,13 @@
 const knex = require('./knex')
 
+const currentDuck = 3960
+
 function getAllDucks() {
-    return knex('nfds').select('*')
+    return knex('nfds').where('ID', '<=', currentDuck).select('*')
 }
 
 function sortBy(column, direction) {
-    console.log(column, direction)
-    return knex('nfds').select('*').orderBy(column, direction)
+    return knex('nfds').where('ID', '<=', currentDuck).select('*').orderBy(column, direction)
 }
 
 
