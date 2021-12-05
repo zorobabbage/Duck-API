@@ -1,18 +1,10 @@
 const express = require('express')
-const axios = require('axios')
 const app = express()
-const path = require('path')
 const fs = require('fs')
-
 const db = require('./db/ducks')
  
 
 const metadataDir = __dirname + '/metadata/'
-
-
-
-
-
 
 let allDucks = []
 async function loadDucksOnStart () {
@@ -27,7 +19,7 @@ async function loadDucksOnStart () {
 }
 
 loadDucksOnStart()
-
+console.log(allDucks.find(x => x.id == 8))
 
 
 app.listen(5000, () => {
@@ -36,9 +28,9 @@ app.listen(5000, () => {
 
 
 
-app.get('nfd/:id', (req, res) => {
+app.get('/duck/:id', (req, res) => {
     const id = req.params.id
-    res.sendFile(path.join(__dirname, `/metadata/DUCK_${id.padStart(4, '0')}.json`))
+    res.status(200).send(allDucks.filter(x => x.id == id))
 })
 
 
