@@ -8,9 +8,11 @@ Uses an Sqlite3 db with every duck to allow for sorting on the server side
 
 ```localhost:5000/nfd/8```
 
+-----
+
 ## Multiple ducks:
     /ducks
--------------------------
+
 #### from
     ID that the pagination should be from inclusive
 
@@ -20,7 +22,6 @@ Uses an Sqlite3 db with every duck to allow for sorting on the server side
 
 ```localhost:5000/ducks?from=1&to=20```
 
-----------------
 #### sortBy:
     - baseRarity
     - beakRarity
