@@ -16,39 +16,39 @@ async function loadDucksOnStart () {
         mintedDucks.push({ id: id, data: obj })
     }
 }
-
+currentID = 3960
 async function getMinted () {
-    currentID = 3960
     mintedDucks = allDucks.filter(x => x.id <= currentID)
 }
 
-
-
 loadDucksOnStart()
 
-// server.js or app.js
 var cors = require('cors')
 
 app.use(cors());
 
 app.get('/duck/:id', async (req, res) => {
     const id = req.params.id
-    res.status(200).send(mintedDucks.filter(x => x.id == id)[0].data)
+    console.log(typeof id)
+    if (!Number.isNaN(id)) {
+        if (parseInt(id) <= currentID && parseInt(id) > 0) {
+            res.status(200).send(mintedDucks.filter(x => x.id == id)[0].data)
+        } else {
+            res.status(404).send('Duck does not exist')
+        }
+    } else {
+        res.status(404)
+    }
 })
 
 
 app.get('/ducks', async (req, res) => {
-
-    const { from, to, sortBy, order } = req.query
-
+    const { "from": from, "to": to, "sortBy": sortBy, "order": order } = req.query
     let dbresults
     if (sortBy) {
         dbresults = await db.sortBy(sortBy, order)
-        console.log(sortBy, order)
-        console.log(dbresults)
     } else {
         dbresults = await db.getAllDucks()
-        console.log(dbresults)
     }
 
     const ids = dbresults.map(x => x.ID)
@@ -65,6 +65,6 @@ app.get('/ducks', async (req, res) => {
     res.status(200).json(mintedDucksSorted.slice(from-1, to))
 })
 
-app.listen(5000, () => {
+app.listen(4000, () => {
     console.log('running api')
 })
