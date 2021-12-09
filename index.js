@@ -5,7 +5,7 @@ const db = require('./db/ducks')
 const cors = require('cors')
 const metadataDir = __dirname + '/metadata/'
 
-const PORT = process.env.port || 4000
+const PORT = process.env.PORT || 4000
 
 let allDucks = []
 
