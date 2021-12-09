@@ -2,69 +2,113 @@ const express = require('express')
 const app = express()
 const fs = require('fs')
 const db = require('./db/ducks')
-
+const cors = require('cors')
 const metadataDir = __dirname + '/metadata/'
+
+const PORT = process.env.port || 4000
+
 let allDucks = []
-let mintedDucks = []
-async function loadDucksOnStart () {
+
+async function loadDucksOnStart() {
     for (let id = 1; id <= 8192; id++) {
         const filePath = `${metadataDir}DUCK_${String(id).padStart(4, "0")}.json`
 
         const data = fs.readFileSync(filePath)
         const obj = JSON.parse(data)
 
-        mintedDucks.push({ id: id, data: obj })
+        allDucks.push({ id: id, data: obj })
     }
 }
-currentID = 3960
-async function getMinted () {
-    mintedDucks = allDucks.filter(x => x.id <= currentID)
+
+async function getMinted() {
+    currentID = 3960
+    return allDucks.filter(x => x.id <= currentID)
 }
 
 loadDucksOnStart()
 
-var cors = require('cors')
 
-app.use(cors());
 
-app.get('/duck/:id', async (req, res) => {
+app.use(cors())
+
+app.get('/duck/:id', async (req, res, next) => {
     const id = req.params.id
-    console.log(typeof id)
-    if (!Number.isNaN(id)) {
-        if (parseInt(id) <= currentID && parseInt(id) > 0) {
-            res.status(200).send(mintedDucks.filter(x => x.id == id)[0].data)
+
+    try {
+        const mintedDucks = await getMinted()
+        const duck = mintedDucks.filter(x => x.id == id)[0].data
+        res.status(200).json(duck)
+    } catch (err) {
+        err.type = 'not-found'
+        err.message = 'Duck does not exist'
+        next(err)
+    }
+})
+
+
+app.get('/ducks', async (req, res, next) => {
+    const { "from": from, 
+            "to": to, 
+            "sortBy": sortBy, 
+            "order": order,
+            "base": base,
+            "beak": beak,
+            "eyes": eyes,
+            "hat": hat,
+            "outfit": outfit,
+            "backgroud": background
+        } = req.query
+    
+    try {
+        const mintedDucks = await getMinted()
+        let dbresults
+
+        if (sortBy) {
+            dbresults = await db.sortBy(sortBy, order)
         } else {
-            res.status(404).send('Duck does not exist')
+            dbresults = await db.getAllDucks()
         }
-    } else {
-        res.status(404)
+
+        const ids = dbresults.map(x => x.ID)
+        let sortOrder = {}
+
+        ids.forEach(function (x, i) { 
+            sortOrder[x] = i
+        })
+
+        const mintedDucksSorted = mintedDucks.sort(function (a, b) {
+            return sortOrder[a.id] - sortOrder[b.id]
+        })
+
+        const mintedDucksSortedFiltered = mintedDucksSorted.filter(duck => {
+            const currentDuckArray = duck.data.attributes.slice(0, 6).map(x => x.value)
+            let filter = []
+            if (base != undefined) filter.push(base)
+            if (beak != undefined) filter.push(beak)
+            if (eyes != undefined) filter.push(eyes)
+            if (hat != undefined) filter.push(hat)
+            if (outfit != undefined) filter.push(outfit)
+            if (background != undefined) filter.push(background)
+            return filter.every(x => currentDuckArray.includes(x))
+        })
+
+        if (mintedDucksSortedFiltered.length < to) to = mintedDucksSortedFiltered.length
+
+        res.status(200).json(mintedDucksSortedFiltered.slice(from - 1, to))
+    } catch (err) {
+        next(err)
+    }  
+})
+
+app.use((error, req, res, next) => {
+    switch (error.type) {
+        case 'not-found':
+            res.status(404).json({
+                message: error.message
+            })
     }
 })
 
-
-app.get('/ducks', async (req, res) => {
-    const { "from": from, "to": to, "sortBy": sortBy, "order": order } = req.query
-    let dbresults
-    if (sortBy) {
-        dbresults = await db.sortBy(sortBy, order)
-    } else {
-        dbresults = await db.getAllDucks()
-    }
-
-    const ids = dbresults.map(x => x.ID)
-    let sortOrder = {}
-    let mintedDucksSorted = mintedDucks
-
-    ids.forEach(function (a, i) { sortOrder[a] = i; });
-
-    mintedDucksSorted.sort(function (a, b) {
-        return sortOrder[a.id] - sortOrder[b.id];
-    });
-
-
-    res.status(200).json(mintedDucksSorted.slice(from-1, to))
-})
-
-app.listen(4000, () => {
-    console.log('running api')
+app.listen(PORT, () => {
+    console.log(`running api on port ${PORT}`)
 })
