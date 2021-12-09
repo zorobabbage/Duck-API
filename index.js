@@ -56,7 +56,7 @@ app.get('/ducks', async (req, res, next) => {
             "eyes": eyes,
             "hat": hat,
             "outfit": outfit,
-            "backgroud": background
+            "background": background
         } = req.query
     
     try {
@@ -92,9 +92,10 @@ app.get('/ducks', async (req, res, next) => {
             return filter.every(x => currentDuckArray.includes(x))
         })
 
-        if (mintedDucksSortedFiltered.length < to) to = mintedDucksSortedFiltered.length
+        let newTo = to
+        if (to > mintedDucksSortedFiltered.length) newTo = mintedDucksSortedFiltered.length - 1
 
-        res.status(200).json(mintedDucksSortedFiltered.slice(from - 1, to))
+        res.status(200).json(mintedDucksSortedFiltered.slice(from - 1, newTo))
     } catch (err) {
         next(err)
     }  
