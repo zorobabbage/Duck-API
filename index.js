@@ -31,6 +31,11 @@ loadDucksOnStart()
 
 app.use(cors())
 
+
+app.get('/', async (req, res, next) => {
+    res.status(200).json({ message: 'invalid request' })
+})
+
 app.get('/duck/:id', async (req, res, next) => {
     const id = req.params.id
 
@@ -147,7 +152,7 @@ app.get('/attributes', async (req, res, next) => {
 app.use((error, req, res, next) => {
     switch (error.type) {
         case 'not-found':
-            res.status(404).json({
+            res.status(200).json({
                 message: error.message
             })
     }
