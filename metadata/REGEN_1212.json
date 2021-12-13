@@ -1,0 +1,67 @@
+{
+  "name": "Cloud Quackers",
+  "description": "Non-Fungible Ducks",
+  "resource": "ipfs://QmaHpXs9gNJNegFwtjB722eHfa15QHYqaULuYxHaMsiikq",
+  "resource_mimetype": "image/png",
+  "external_url": "https://duck.community",
+  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Male Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Smile Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Bulging Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Baseball Cap"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Pondberry Scarf"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "1.25%"
+    }
+  ],
+  "transparent": "ipfs://QmVm4tb4VCe9dv5JBBR7SdL1KiTJa3haY95roYMUVhtdZb",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1212_b138c648ccc7cdce.png"
+}
