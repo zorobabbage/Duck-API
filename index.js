@@ -98,12 +98,55 @@ app.get('/ducks', async (req, res, next) => {
         })
 
         let newTo = to
-        if (to > mintedDucksSortedFiltered.length) newTo = mintedDucksSortedFiltered.length - 1
+        if (to > mintedDucksSortedFiltered.length) newTo = mintedDucksSortedFiltered.length
 
-        res.status(200).json(mintedDucksSortedFiltered.slice(from - 1, newTo))
+        const result = {
+            ducksInSearch: mintedDucksSortedFiltered.length,
+            resultDucks: mintedDucksSortedFiltered.slice(from - 1, newTo)
+        }
+
+        res.status(200).json(result)
+        
     } catch (err) {
         next(err)
     }  
+})
+
+app.get('/attributes', async (req, res, next) => {
+    try {
+        let mintedDucks = await getMinted()
+
+        let result = {
+            bases: {},
+            beaks: {},
+            eyes: {},
+            hats: {},
+            outfits: {},
+            backgrounds: {}
+        }
+
+        for (let i in mintedDucks) {
+            const thisDuckMetadata = mintedDucks[i].data.attributes
+
+            const base = thisDuckMetadata.find(x => x.trait_type == 'Base')['value']
+            const beak = thisDuckMetadata.find(x => x.trait_type == 'Beak')['value']
+            const eyes = thisDuckMetadata.find(x => x.trait_type == 'Eyes')['value']
+            const hat = thisDuckMetadata.find(x => x.trait_type == 'Hat')['value']
+            const outfit = thisDuckMetadata.find(x => x.trait_type == 'Outfit')['value']
+            const background = thisDuckMetadata.find(x => x.trait_type == 'Background')['value']
+            
+            result.bases[base] == null ? result.bases[base] = 1 : result.bases[base]++
+            result.beaks[beak] == null ? result.beaks[beak] = 1 : result.beaks[beak]++
+            result.eyes[eyes] == null ? result.eyes[eyes] = 1 : result.eyes[eyes]++
+            result.hats[hat] == null ? result.hats[hat] = 1 : result.hats[hat]++
+            result.outfits[outfit] == null ? result.outfits[outfit] = 1 : result.outfits[outfit]++
+            result.backgrounds[background] == null ? result.backgrounds[background] = 1 : result.backgrounds[background]++
+        }
+
+        res.status(200).json(result)
+    } catch (err) {
+        next(err)
+    }
 })
 
 app.use((error, req, res, next) => {
