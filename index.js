@@ -5,7 +5,13 @@ const db = require('./db/ducks')
 const cors = require('cors')
 const metadataDir = __dirname + '/metadata/'
 
+// -----------------------------------------
+
+let { mainGetBlock } = require('./zilliqa')
+
 const PORT = process.env.PORT || 4000
+
+// -----------------------------------------
 
 let allDucks = []
 
@@ -21,16 +27,25 @@ async function loadDucksOnStart() {
 }
 
 async function getMinted() {
-    currentID = 3960
-    return allDucks.filter(x => x.id <= currentID)
+    try {
+        const currentID = holders.length
+        const ducksMinted = allDucks.filter(x => x.id <= currentID)
+        const matchedOwners = ducksMinted.map(x => ({owner: holders.find(y => y.id == x.id).address, ...x}))
+        return matchedOwners
+    } catch (err) {
+        next(err)
+    }
 }
 
 loadDucksOnStart()
-
+mainGetBlock()
 
 
 app.use(cors())
 
+// ==================================================
+//               express api stuff V 
+// ==================================================
 
 app.get('/', async (req, res, next) => {
     res.status(200).json({ message: 'invalid request' })
@@ -61,7 +76,8 @@ app.get('/ducks', async (req, res, next) => {
             "eyes": eyes,
             "hat": hat,
             "outfit": outfit,
-            "background": background
+            "background": background,
+            "owner": owner
         } = req.query
     
     try {
@@ -69,9 +85,9 @@ app.get('/ducks', async (req, res, next) => {
         let dbresults
 
         if (sortBy) {
-            dbresults = await db.sortBy(sortBy, order)
+            dbresults = await db.sortBy(sortBy, order, holders.length)
         } else {
-            dbresults = await db.getAllDucks()
+            dbresults = await db.getAllDucks(holders.length)
         }
 
         const ids = dbresults.map(x => x.ID)
@@ -81,11 +97,11 @@ app.get('/ducks', async (req, res, next) => {
             sortOrder[x] = i
         })
 
-        const mintedDucksSorted = mintedDucks.sort(function (a, b) {
-            return sortOrder[a.id] - sortOrder[b.id]
+        const mintedDucksSorted = mintedDucks.sort((a, b) => {
+            return sortOrder[a.id] - sortOrder[b.id] 
         })
 
-        const mintedDucksSortedFiltered = mintedDucksSorted.filter(duck => {
+        let mintedDucksSortedFiltered = mintedDucksSorted.filter(duck => {
             const currentDuckArray = duck.data.attributes.slice(0, 6).map(x => x.value)
             let filter = []
             if (base != undefined) filter.push(base)
@@ -96,6 +112,12 @@ app.get('/ducks', async (req, res, next) => {
             if (background != undefined) filter.push(background)
             return filter.every(x => currentDuckArray.includes(x))
         })
+
+        if (owner != undefined) {
+            mintedDucksSortedFiltered = mintedDucksSortedFiltered.filter(duck => {
+                return duck.owner.toLowerCase() == owner.toLowerCase()
+            })
+        }
 
         let newTo = to
         if (to > mintedDucksSortedFiltered.length) newTo = mintedDucksSortedFiltered.length
