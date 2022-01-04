@@ -36,10 +36,19 @@ Also contains the rewards api to allow frontend to read MongoDB.
     - asc
     - desc
 
+#### Filters
+    - base
+    - beak
+    - eyes
+    - hat
+    - outfit
+    - background
 
-```https://api/duck.community/ducks?from=1&to=20&sortBy=overallRarity&order=asc```
 
-## Owner
+```https://api/duck.community/ducks?from=1&to=20&sortBy=overallRarity&order=asc```    
+```https://api.duck.community/ducks?from=1&to=24&sortBy=overallRarity&order=desc&outfit=Black+Deezys```
+
+#### Owner
     Can filter request by the duck owner as well.
     Here's my ducks:
 
