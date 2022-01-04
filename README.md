@@ -6,7 +6,7 @@ Uses an Sqlite3 db with every duck to allow for sorting on the server side
 
     /duck/[id]
 
-```localhost:5000/nfd/8```
+```https://api.duck.community/duck/8```
 
 -----
 
@@ -20,7 +20,7 @@ Uses an Sqlite3 db with every duck to allow for sorting on the server side
 #### to
      ID that the pagination should to from inclusive
 
-```localhost:5000/ducks?from=1&to=20```
+```https://api.duck.community/ducks?from=1&to=20```
 
 #### sortBy:
     - baseRarity
@@ -38,4 +38,4 @@ Uses an Sqlite3 db with every duck to allow for sorting on the server side
 
 
 
-```localhost:5000/ducks?from=1&to=20&sortBy=overallRarity&order=asc```
+```https://api/duck.community/ducks?from=1&to=20&sortBy=overallRarity&order=asc```
