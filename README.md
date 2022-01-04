@@ -3,7 +3,8 @@
 Uses an Sqlite3 db with every duck to allow for sorting on the server side.
 Also contains the rewards api to allow frontend to read MongoDB.
 
-## Single duck
+## NFDs
+#### Single duck
 
     /duck/[id]
 
@@ -11,7 +12,7 @@ Also contains the rewards api to allow frontend to read MongoDB.
 
 -----
 
-## Multiple ducks:
+#### Multiple ducks:
     /ducks/
 
 #### from
@@ -26,7 +27,7 @@ Also contains the rewards api to allow frontend to read MongoDB.
 #### sortBy:
     - baseRarity
     - beakRarity
-     - eyesRarity
+    - eyesRarity
     - hatRarity
     - outfitRarity
     - overallRarity
