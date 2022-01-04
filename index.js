@@ -4,13 +4,14 @@ const fs = require('fs')
 const db = require('./db/ducks')
 const cors = require('cors')
 const metadataDir = __dirname + '/metadata/'
+const { MongoClient } = require("mongodb")
 
 // -----------------------------------------
 
 let { mainGetBlock } = require('./zilliqa')
 
 const PORT = process.env.PORT || 4000
-
+const MONGO_DB_URL = 'mongodb+srv://padkcrfz65jw9M3:pZZJpOKWaKdkZzJCO3WF@cluster0.xyo1k.mongodb.net/production'
 // -----------------------------------------
 
 let allDucks = []
@@ -47,10 +48,6 @@ app.use(cors())
 //               express api stuff V 
 // ==================================================
 
-app.get('/', async (req, res, next) => {
-    res.status(200).json({ message: 'invalid request' })
-})
-
 app.get('/duck/:id', async (req, res, next) => {
     const id = req.params.id
 
@@ -64,7 +61,6 @@ app.get('/duck/:id', async (req, res, next) => {
         next(err)
     }
 })
-
 
 app.get('/ducks', async (req, res, next) => {
     const { "from": from, 
@@ -166,6 +162,33 @@ app.get('/attributes', async (req, res, next) => {
         }
 
         res.status(200).json(result)
+    } catch (err) {
+        next(err)
+    }
+})
+
+app.get('/rewards', async (req, res, next) => {
+    try {
+        MongoClient.connect(MONGO_DB_URL, async (err, client) => {
+            const db = client.db('production');
+            const data = await db.collection('weeklyrewards').find().toArray()
+
+            // mongo db _id looks ugly in my api :(
+            try {
+                let alteredData = data
+                alteredData.forEach(period => {
+                    delete period['_id']
+                    delete period['__v']
+                    period['rewards'].forEach(x => {
+                        delete x['_id']
+                    })
+                })
+                res.json(alteredData)
+            } catch (err) {
+                res.json(data)
+            }
+            
+        })
     } catch (err) {
         next(err)
     }
