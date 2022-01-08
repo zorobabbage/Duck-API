@@ -2,7 +2,7 @@ const { Zilliqa } = require('@zilliqa-js/zilliqa')
 const { MessageType } = require('@zilliqa-js/subscriptions')
 
 // mainnet or testnet
-const network = process.env.NETWORK || 'mainnet'
+const network = process.env.NETWORK
 
 const nfd_contract = {
     mainnet: process.env.MAINNET_CONTRACT,
@@ -26,6 +26,7 @@ const zilliqa = new Zilliqa(zil_api)
 global.holders = []
 
 async function mainGetBlock() {
+    console.log(nfd_contract, zil_api, zil_ws)
     getTokenHolders()
     const subscriber = zilliqa.subscriptionBuilder.buildNewBlockSubscriptions(
         zil_ws,
@@ -46,6 +47,7 @@ async function getTokenHolders () {
         )).result.token_owners
     
         const arrayResult = Object.entries(result).map(x => ({ id: x[0], address: x[1] }))
+        console.log(holders)
         holders = arrayResult
     } catch (err) {
 
