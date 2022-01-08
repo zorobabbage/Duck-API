@@ -1,14 +1,34 @@
 const { Zilliqa } = require('@zilliqa-js/zilliqa')
 const { MessageType } = require('@zilliqa-js/subscriptions')
-const zilliqa = new Zilliqa('https://api.zilliqa.com')
 
-const nfd_contract = process.env.NFD_CONTRACT || '0x06f70655d4aa5819e711563eb2383655449f24e9'
+// mainnet or testnet
+const network = process.env.NETWORK || 'mainnet'
+
+const nfd_contract = {
+    mainnet: process.env.MAINNET_CONTRACT,
+    testnet: process.env.TESTNET_CONTRACT 
+}[network]
+
+const zil_api = {
+    mainnet: 'https://api.zilliqa.com',
+    testnet: 'https://dev-api.zilliqa.com'
+}[network]
+
+const zil_ws = {
+    mainnet: 'wss://api-ws.zilliqa.com',
+    testnet: 'wss://dev-ws.zilliqa.com'
+}[network]
+
+
+
+const zilliqa = new Zilliqa(zil_api)
+
 global.holders = []
 
 async function mainGetBlock() {
     getTokenHolders()
     const subscriber = zilliqa.subscriptionBuilder.buildNewBlockSubscriptions(
-      'wss://api-ws.zilliqa.com',
+        zil_ws,
     )
         
     subscriber.emitter.on(MessageType.NEW_BLOCK, () => {
@@ -26,7 +46,7 @@ async function getTokenHolders () {
         )).result.token_owners
     
         const arrayResult = Object.entries(result).map(x => ({ id: x[0], address: x[1] }))
-        if (arrayResult.length > 4000) holders = arrayResult
+        holders = arrayResult
     } catch (err) {
 
     }

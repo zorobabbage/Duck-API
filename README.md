@@ -3,6 +3,12 @@
 Uses an Sqlite3 db with every duck to allow for sorting on the server side.
 Also contains the rewards api to allow frontend to read MongoDB.
 
+#### .env
+Supply the following
+    MAINNET_CONTRACT
+    TESTNET_CONTRACT
+    NETWORK
+
 ## NFDs
 #### Single duck
 
