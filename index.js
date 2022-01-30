@@ -195,6 +195,21 @@ app.get('/rewards', async (req, res, next) => {
     }
 })
 
+app.get('/collection_metadata', async (req, res, next) => {
+    const filePath = `/metadata/collection_metadata.json`
+
+    const data = fs.readFileSync(filePath)
+    const obj = JSON.parse(data)
+
+    try {
+        res.status(200).json(obj)
+    } catch (err) {
+        err.type = 'not-found'
+        err.message = 'Collection metadata does not exist'
+        next(err)
+    }
+})
+
 app.use((error, req, res, next) => {
     switch (error.type) {
         case 'not-found':
