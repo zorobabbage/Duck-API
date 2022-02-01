@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmX3Pk3yVTbQ9Jitb8ut6oqTMdHZrKivLLoBR753jCNVTf",
+  "resource": "ipfs://QmQf84Xjv1kUX8wfd8EXRhP9dpCNUppC5jVsjkGVGgqwpA",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Seaduck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cracked Beak"
+      "value": "Broken Smile"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Laser Eyes"
+      "value": "Angry Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Headphones"
+      "value": "Hot Dog"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Cape"
+      "value": "Gold Chain"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Lime"
+      "value": "Blue"
     },
     {
       "display_type": "string",
@@ -49,19 +45,19 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "1.25%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Hat Rarity",
       "value": "7.50%"
     },
     {
       "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "1.00%"
+    },
+    {
+      "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "1.25%"
     }
   ],
-  "transparent": "ipfs://Qmb6BcZv8ZHVD7ihfJNed546YyeoTu8RBeifNXzCJqkKqm",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_4031_f339938d4c66899c.png"
+  "transparent": "ipfs://QmRUxRuED5heMWNgsTkUTTezQqpqP9HudFAewpyGpJiDvW",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1875_b39f9f2186963930.png"
 }

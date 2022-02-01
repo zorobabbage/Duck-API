@@ -1,45 +1,41 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmRc5gee14dhzupccPNak8Qoa2HduQ72NU1tMkjQR8ynNq",
+  "resource": "ipfs://QmT6Z2sWLWfS6KFpMdDqpLaHAfbQcnG2fLCzujXQ2dWNzJ",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Female Mallard"
+      "value": "Shiny Domestic"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Beak"
+      "value": "Blue Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Crying Eyes"
+      "value": "Sunglasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Bun"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Striped Hoodie Red"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Beige"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
@@ -49,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmehrEeFsq2y3zPE1fgTcgycAVEBVxWxWcZ6WjTo1Hb77F",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2925_b398ce6566c6c938.png"
+  "transparent": "ipfs://QmfGfGR7fyVvuWGh8YCevD5zZjtQAdw1jchzt9h62WZH4Y",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2924_b22466cbc7cc9939.png"
 }

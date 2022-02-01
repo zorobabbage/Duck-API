@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://Qma7nEd68Xmwgj7RkKFP5dEMeo1RsM9UpDUrjjs2BcJF8k",
+  "resource": "ipfs://QmRjuGsBMbeCmrDTcuHGitbprm5LndPnhKWRigaYQbjAD4",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Seaduck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Braces Beak"
+      "value": "Sax Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Dumb Eyes"
+      "value": "Shades"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Sombrero"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Striped Hoodie Red"
+      "value": "DCDC Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Teal"
+      "value": "Lime"
     },
     {
       "display_type": "string",
@@ -44,24 +40,24 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "2.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "2.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "10.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmQQ85o1uZAKhZtZ5YkteUs85Jz7ZNUqn1xyoNzSKwucYF",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_4147_b298cd6166ce9939.png"
+  "transparent": "ipfs://QmcVQdvAYvfYKjMcsocoiCtYbvXrDLRZCsU6e4rdicGbCM",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1924_b39cde618c866c66.png"
 }

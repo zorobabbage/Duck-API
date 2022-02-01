@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmVj1Edok5cbyudLhmCzzS4X55yP54rRvcdoATRt3XfpJ6",
+  "resource": "ipfs://QmUkKWNC4mzhLLyX2sYAtYzPe7RD7WSWknJc461RwdDrPH",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Female Mallard"
+      "value": "Eider"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Blue Beak"
+      "value": "Green Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Surprised Eyes"
+      "value": "Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Rice Hat"
+      "value": "Rasta Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Tie"
+      "value": "Yellow Hoodie"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Lime"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmZGL25Dfh3rmZrQydywvPcjuq19JomhrbYpWKYEmtXWsc",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2742_b1988e6dc8c74d66.png"
+  "transparent": "ipfs://QmZKPmLZjpaMpAeKZ7p11TpEkfxKfnJdvNbisvu9JyA6Rm",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2741_e29a936dd9864c5c.png"
 }

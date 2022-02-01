@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmSrWRuDrgaWrMk679U2HufbJ1DzUw7YTKhULT9CpvYwTS",
+  "resource": "ipfs://QmdACWLXaaRyssX9QaUC8hjTWvVHNG6718rX5KB8un4rAs",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Seaduck"
+      "value": "Male Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Blue Open Beak"
+      "value": "Green Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Terminator Eyes"
+      "value": "Bulging Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Halo"
+      "value": "Bun"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Hawaiian Shirt"
+      "value": "Footie Jersey"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Beige"
+      "value": "Pink"
     },
     {
       "display_type": "string",
@@ -49,19 +45,19 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmV9auMQzskfbZPkHkUXwqrTUUmeScUYJtSsr1aV3GyxM9",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3418_b19c9669cc967938.png"
+  "transparent": "ipfs://QmP1aXQSruYzxbMEoKbaqneTufrzsUs4CFP6a5coPxZeh5",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3417_f1989631ccce499d.png"
 }

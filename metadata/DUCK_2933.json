@@ -1,50 +1,46 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://Qmci4JZv1LV8gmt3cfnC3eHsybbSU5sECy2xSNmF6wFxXS",
+  "resource": "ipfs://QmPguxYzDnvzjSUNcKX5H5mpLyvwmypcr8Z7f2b35WYoho",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Female Mallard"
+      "value": "Red"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Open Beak"
+      "value": "Smile Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "Surprised Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Fez"
+      "value": "Bucket Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Frankenstein Bolts"
+      "value": "Camo Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Orange"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "1.33%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmcAHuWDaJ6fJWLKTR8w6RJUzndtHKpXyBoBSCJVTFRLiK",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2933_b398c66dc896c96c.png"
+  "transparent": "ipfs://QmTMX5cQJpJczf5dHdvU2aLdn33VYD87ieLYTW6uRa4a36",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2932_b199966cc8934dce.png"
 }

@@ -1,50 +1,46 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmRL7B4ys37cDe5ByfwgTjsy8iiESFyb69tEZNtqvkRjX4",
+  "resource": "ipfs://QmW5TV42nsDjn7fq2Pbn2nPnUXyFmEkkEhMgXdtyQ2ippq",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Female Mallard"
+      "value": "Shiny Eider"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Lipstick Beak"
+      "value": "Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyes"
+      "value": "Nerdy Glasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Durag"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Beige Deezys"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Teal"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmXM6t4U92ugFU2Q8SK34fg3uugPV64nHZZa3CE9GZf6aX",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2757_b399866dcc864c6e.png"
+  "transparent": "ipfs://QmZPepqyMuP4kASsonTJifCWyz9rZDjAPic6hZSswoUM3V",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2756_b399966cc9c64c3c.png"
 }

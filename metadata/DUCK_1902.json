@@ -1,45 +1,41 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://Qmb9esunYYAf1HpDqTiGpyhJaX91LEK88c9xF7tsf7Gtjy",
+  "resource": "ipfs://QmTfbs8XuhMSRH6B9gnQFPvFgekdWYttLi94mQCEGPuzVY",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Shiny Female Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Cracked Beak"
+      "value": "Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Crying Eyes"
+      "value": "Shades"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Propeller Hat"
+      "value": "Baseball Cap"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Camo Shirt"
+      "value": "Gradient Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Teal"
+      "value": "Beige"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
@@ -49,19 +45,19 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "2.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmT1usmKVF8UkVtBoxLSy3u7D9qeE8xC7sNoCG9LXxTFfW",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_1902_b393c66962cccc3c.png"
+  "transparent": "ipfs://Qmd5rQjc9NtvkMaqrfpMU8TiDK31oS4iQsoJ9kDmgejQTv",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1859_b138ce4cc8cfcd26.png"
 }

@@ -1,45 +1,41 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmRwEq9DvYmTnymD6aJR9AWUYCTimQ26yLGCCwZqw1toh2",
+  "resource": "ipfs://QmS9xQcTEX273otTCBsDXgsocKScSanGMqbQLiYwda4JkB",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Goldeneye"
+      "value": "Shiny Rubber Ducky"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Normal Beak"
+      "value": "Blue Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Smug Eyes"
+      "value": "Angry Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bucket Hat"
+      "value": "Top Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Flower Lei"
+      "value": "Striped Hoodie Red"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Pink"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "0.91%"
+      "value": "3.00%"
     },
     {
       "display_type": "string",
@@ -54,14 +50,14 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmTi94Q7Q9XPp1E8Zu5DwDUAH7yKXBLmH5g43YzcBvdYmD",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2183_b23231d9cccec966.png"
+  "transparent": "ipfs://Qma5JPpNzyknhNjXjDeKtUCDnzSeqN2HemnCcqEgazMKUa",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2182_b266ce6764ce9918.png"
 }

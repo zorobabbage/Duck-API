@@ -1,67 +1,63 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmdyzQhjFa4tsUXtxYMBjKbLWgRnHEr1soovZvnkGi7TYC",
+  "resource": "ipfs://QmerxsbCxXu8sCqr8nQXPN7wTuuH1J655nNaExd6vbLLXo",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Red"
+      "value": "Mandarin"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Open Beak"
+      "value": "Blue Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyes"
+      "value": "Censorbar"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Propeller Hat"
+      "value": "Bun"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DUPREME Shirt"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Lime"
+      "value": "Peach"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "1.33%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Eyes Rarity",
-      "value": "7.50%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Hat Rarity",
       "value": "2.78%"
     },
     {
       "display_type": "string",
-      "trait_type": "Outfit Rarity",
+      "trait_type": "Eyes Rarity",
       "value": "1.25%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmRD6jYvAaDszG9QejoaY2wH6qfASk8DFEcxt9KUS3oy1y",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3071_b199966ccc926dcc.png"
+  "transparent": "ipfs://QmdvAr5mtASH3vFD4c71aJ5ffzQ8SAraUmFdLeeDv7gw1V",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3070_e63232ccc799cc99.png"
 }

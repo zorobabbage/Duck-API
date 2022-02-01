@@ -1,55 +1,51 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmbF34sdpmsJTfpJbgZTV3omrowvMgkeiVjcqXHr7B3gXk",
+  "resource": "ipfs://QmS7g9bUHKRRfJby5r3pkRrqDwJ3AqLW9GAkUaEZm5fPW2",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Pochard"
+      "value": "Red"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Tongue Beak"
+      "value": "Drooling Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Sunglasses"
+      "value": "Angry Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bandana"
+      "value": "Headphones"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Floatie"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Lilac"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "1.33%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "2.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmcLMJQNGz6mz37JnQm2TPH2A5x4arEc725ouKAT1Z8mg7",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2716_b133c6cccdc64c66.png"
+  "transparent": "ipfs://Qmbxtf2FoyCQaHZ9QFWT2NgmBAYmZFmRrbxkj5qktYXp4R",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2715_b199866ccc966dcc.png"
 }

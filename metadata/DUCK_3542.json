@@ -1,20 +1,16 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmPK1my4vV3BHeMusZ89n8kJjfHhZxFbfhBjDNazDRRgve",
+  "resource": "ipfs://QmSpf4Couo8oVrZTnM3NgnnjLbDLCzyeQ53QrAV7UDnk5K",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Hulk"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cigarette Beak"
+      "value": "Orange Beak"
     },
     {
       "display_type": "string",
@@ -24,27 +20,27 @@
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Sombrero"
+      "value": "Headphones"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Flower Lei"
+      "value": "Tie"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Beige"
+      "value": "Lime"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "1.33%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -54,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "10.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmWwApqqVRVGYDTvdeJ1SAHzJZBSZXcXYQ8A2mEyMocZSX",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3542_b63a9a4cb2934e66.png"
+  "transparent": "ipfs://QmdfvDen7xHkXtxWgaP1QAenYPQDVefNmwTY9xyLGUQaNP",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3541_b199ce6ccc864d2e.png"
 }

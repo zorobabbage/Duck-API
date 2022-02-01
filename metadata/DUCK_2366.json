@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmP2SgA8rFveQnQDKPU6eC5DY6G2ejFK6NgiRaCftP2f1d",
+  "resource": "ipfs://QmSm43otFm3Kt1m6GT7xwob4zs1fb9vSpMtKgzYMUfPqDo",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Merganser"
+      "value": "Seaduck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Open Beak"
+      "value": "Braces Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Cowboy Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Gradient Shirt"
+      "value": "DF1 White"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Beige"
+      "value": "Lilac"
     },
     {
       "display_type": "string",
@@ -44,7 +40,7 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
@@ -54,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmPCmERtkpUJKjYRaFEafGEvnJfdpfburFSf9TNLdqf3Bq",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2366_b199866cce936d26.png"
+  "transparent": "ipfs://QmZjp1qRMUz3pyz2E3AHwP1byjoywRftbDxc3gumqXdcSr",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2365_b1989e6dc691cc66.png"
 }

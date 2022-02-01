@@ -1,50 +1,46 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://Qmf21biRpnK1xHL83DSqi6keYGKSfDL9kUXzeDbdfyPCJ8",
+  "resource": "ipfs://QmZcupzVgsVQ9u3wS37TEPe7hxq2GxFVMjN68xprrNzJFE",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Goldeneye"
+      "value": "Shiny Seaduck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Lipstick Beak"
+      "value": "Normal Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Dumb Eyes"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Headphones"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Striped Hoodie Red"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Lilac"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://Qmc19zvfn4bTXp4WnyS7sNvxr3oP3WMb94VinupjwVBCfm",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2566_b3989e61c6c6c939.png"
+  "transparent": "ipfs://QmPveAaM9np9VNh8Nxfkx88z5iAwNxLpmt9CN6mS37e7ar",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2565_b3969369cc87392c.png"
 }

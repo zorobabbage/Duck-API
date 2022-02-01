@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmQLQEsB2CNZ8ymYXwQhKiGoPmYycU9XzRn5Ae6ijz5U7L",
+  "resource": "ipfs://QmTXfz2r9MFkmJZXYHg2NYTT4yZnm29WyzvJHQAmuwyVff",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Open Beak"
+      "value": "Pipe Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Dumb Eyes"
+      "value": "Angry Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Halo"
+      "value": "Rasta Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Flower Lei"
+      "value": "Gold Chain"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Lilac"
     },
     {
       "display_type": "string",
@@ -44,7 +40,7 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "1.25%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "1.25%"
     }
   ],
-  "transparent": "ipfs://QmVD3FDdVMNajvbF19zFhCcUBVLsrYeoW9LhiFfk8j1oTx",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_4088_b09ce7c966c69938.png"
+  "transparent": "ipfs://QmPrgqRybJAExiDtBBH4WHZyiCXn2iMqG5jTXKDKyhnN9c",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_4087_a39a9169cc9e4d66.png"
 }

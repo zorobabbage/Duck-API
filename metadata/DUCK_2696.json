@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmZRRB56SzAM9HgBQRtddQsXrh6LAuw2SRYfk2rq9T4Mo9",
+  "resource": "ipfs://QmVDrpjwufkkXVSWxod3gAhRnoCSV7XogkudDWT4YsESxs",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Eider"
+      "value": "Pochard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Open Beak"
+      "value": "Blue Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Smug Eyes"
+      "value": "Pink Glasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Propeller Hat"
+      "value": "Sombrero"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DF1 Red"
+      "value": "DF1 White"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Pink"
     },
     {
       "display_type": "string",
@@ -49,19 +45,19 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "10.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmV1Yp6x26EWPVmr1H5NkwcLAqjBsDhMhr8SxyzxREi8ZB",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2696_e699b366cc924c6c.png"
+  "transparent": "ipfs://QmYxMLAxa79Q82DAVFHHi3KJsu5GEc6fr9FgN6chyC1DbM",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2695_b13286cdcdc6cc66.png"
 }

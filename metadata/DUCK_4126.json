@@ -1,50 +1,46 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmW42oqCfSUoSeh4CLYfwCEGzpGXoxTrGK7TtPHzSQk4rP",
+  "resource": "ipfs://QmeGTXefzHk9yuaWwRKbTQUUkRiQXUWcBiLdbePe943oTq",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Rubber Ducky"
+      "value": "Mandarin"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Open Beak"
+      "value": "Tongue Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyepatch"
+      "value": "Red Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Sombrero"
+      "value": "Rasta Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Zebra Deezys"
+      "value": "Tie"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Lime"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "3.00%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
@@ -54,14 +50,14 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "10.00%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmbnbqvpYnFRHaaH4k5aHeE99qZridCnV2emxP5teQVJsg",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_4126_b23836cdccc6cc66.png"
+  "transparent": "ipfs://QmUPtLT1iikER3ktXEbvicqxzpkMgbU32JSzMnNFGsMu53",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1907_b3929e4999996c66.png"
 }

@@ -1,35 +1,31 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://Qmdn8SW54P3hbexK15dWPscG2d5C5AhnyrtWdow6EEdiwG",
+  "resource": "ipfs://QmXjvrnzz6GS8xCXMP9Q5EvduVfDBiii6jX2ADRRDzUckZ",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Merganser"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Lipstick Beak"
+      "value": "Blue Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyes"
+      "value": "Sunglasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Baseball Cap"
+      "value": "Hot Dog"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Spiked Choker"
+      "value": "DF1 Red"
     },
     {
       "display_type": "string",
@@ -44,24 +40,24 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "1.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "1.67%"
     }
   ],
-  "transparent": "ipfs://QmRUgQ46QCH5gda1C8FSdaQoWrqbFxe5igN6GNX2ycjoy6",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3614_9e26339961319ece.png"
+  "transparent": "ipfs://QmRnATMPRhYrm3ktskTrYkh48xXWHgWqKGwVGmTbNepiyp",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3613_e7999b4e86312566.png"
 }

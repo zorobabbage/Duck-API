@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmRyZr25weMB93fedGCVcyxe1BzvXEZZmUnJPLnekoD8Gd",
+  "resource": "ipfs://QmT5P9shePYpjJ9p2YNvAmgMAsnoTS34GVW3C9gdvySTTy",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Mandarin"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Daffy Beak"
+      "value": "Green Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "X Eyes"
+      "value": "Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Rice Hat"
+      "value": "Fez"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DUPREME Shirt"
+      "value": "DCDC Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Lime"
+      "value": "Orange"
     },
     {
       "display_type": "string",
@@ -44,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "1.25%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.25%"
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmdVj58uAVh2Vxjzrrn6MTRfaxfstzcvmbGKqf3Pw5FSee",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2077_b09896c9ccc7cb66.png"
+  "transparent": "ipfs://QmQX2WgKjYqTku2T4PkUkjB9SHGGV5gYBcWgbpxN46gRkT",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2076_b19ace6c3199cd32.png"
 }

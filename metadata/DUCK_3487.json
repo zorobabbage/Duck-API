@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmZxf6hpmKpxrNPe46tG4DVwonJXD2skYi8p4Hn1ncfAVX",
+  "resource": "ipfs://QmUnU3jjfQSQGa7QAmp313yQtcQFFEnS33V4MXeccxg35e",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Pochard"
+      "value": "Domestic Duck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Normal Beak"
+      "value": "Green Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Surprised Eyes"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Baseball Cap"
+      "value": "Durag"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Zebra Deezys"
+      "value": "Cape"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Teal"
+      "value": "Pink"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "1.67%"
     }
   ],
-  "transparent": "ipfs://QmNqEm39D14vusPFZukaBwNCRkndiTTDvsf9m9HJGQN6xm",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3487_b11886ccccc7cdce.png"
+  "transparent": "ipfs://QmbnUTAxkgBiwCHgFoggqGqumKpjAYxGEMQ1gd6YhBZhBY",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3486_e33193996c6e8c9c.png"
 }

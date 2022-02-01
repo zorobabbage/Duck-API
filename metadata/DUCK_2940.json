@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmUKYqZGnVpH2w4qFiA91xknp6g3Q69jp4oiCQjXKErwoZ",
+  "resource": "ipfs://Qme5iV557ZjMFwNEaUssNBrqjCgSJJ3SYGaPtcY5cSHTvi",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Goldeneye"
+      "value": "Pochard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cigarette Beak"
+      "value": "Orange Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Crying Eyes"
+      "value": "Angry Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Durag"
+      "value": "Horns"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DCDC Shirt"
+      "value": "Tie"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Orange"
     },
     {
       "display_type": "string",
@@ -44,7 +40,7 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -54,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "1.00%"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmQLRnX7SgLNcnboGWvv6wBDUUYDLmX3JYyQ58YuEs6XnC",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2940_b399ce618c86cd66.png"
+  "transparent": "ipfs://QmVgwSY9ytzrET7cybAM2Kstv5Csd9HgdijFtExpHoVHyt",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2939_b136c6c9ccc7c9c8.png"
 }

@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmWRtwNEogbdCRMvPYuaXMdq4GekhthB39anQDcWqgUEyF",
+  "resource": "ipfs://QmSKZLksbeRpDYDCBjgC15CQEvaMBVuJM6svQhtCWa218t",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Mandarin"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Open Beak"
+      "value": "Broken Smile"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Scuba Mask"
+      "value": "Bulging Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Baseball Cap"
+      "value": "Top Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Black Deezys"
+      "value": "Pondberry Scarf"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Lilac"
+      "value": "Peach"
     },
     {
       "display_type": "string",
@@ -44,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "1.25%"
     }
   ],
-  "transparent": "ipfs://QmbHSxu4ybjUSiyWcrjEKKGyvSWfe8qrWVgMV6MSeFreKd",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_4013_ba3c33c9c4cc986d.png"
+  "transparent": "ipfs://Qmb1wcLVjutLKqKwpmz87PAXPKPuUfwdfpQfHzi2XGkYKq",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1851_e63630cc6399ccce.png"
 }

@@ -1,45 +1,41 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://Qmcgakmh4xysgESYFXobyQbQDJ7ZikErPjuz9f9SgXcKwn",
+  "resource": "ipfs://QmS6m7YQrPjTy8G6zvkFuMTQuHqa2qT76HTZhti4KesTkT",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Goldeneye"
+      "value": "Shiny Rubber Ducky"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Blue Beak"
+      "value": "Blue Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyes"
+      "value": "Surprised Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bun"
+      "value": "Egg"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Pepe Shirt"
+      "value": "Yellow Hoodie"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Beige"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "3.00%"
     },
     {
       "display_type": "string",
@@ -54,14 +50,14 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmaSvtrfoBhEqXwJXxycAU29TBH4yMJHRqi85Y8444SJZf",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2638_e39ab26ccc93494d.png"
+  "transparent": "ipfs://QmPi6qyCdHf2NcQPpEgJNbzqkPUP71HSeZonqmmm7xjW5W",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2637_b098c7c3c7e79838.png"
 }

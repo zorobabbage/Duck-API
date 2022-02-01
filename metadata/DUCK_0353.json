@@ -1,10 +1,6 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
   "resource": "ipfs://QmX2rvbu68LY2xrCswgwnsxkoagwekddKNgSg8SHvyqfFb",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
@@ -34,7 +30,7 @@
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Pink"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmP5XPMy4bs8wFqaVHfrPsHSsr8VFnjdqvzvn6GP83DqdU",
+  "transparent": "ipfs://QmXDKdyWKGfTnEbAAJW75sNwNi4mV1Tkt3Qxuv5jdZ5AXv",
   "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1676_b19e9669cc97690c.png"
 }

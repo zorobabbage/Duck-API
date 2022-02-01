@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmVxWJeZ19roYMqePvAm3CpGejmqvtkavf6Yeq655iKeCr",
+  "resource": "ipfs://QmPaNQ6rz9wThEdJTXx9YCfzsN3U8Zaw5ggVsbPJWJNHef",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Pochard"
+      "value": "Seaduck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cigarette Beak"
+      "value": "Moustache Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Cyclops"
+      "value": "Eyepatch"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Hot Dog"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Striped Hoodie Red"
+      "value": "DF1 Red"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Teal"
     },
     {
       "display_type": "string",
@@ -49,19 +45,19 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "1.25%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "1.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "1.67%"
     }
   ],
-  "transparent": "ipfs://QmYEFUMrPRSkuvhH3dtFs2K8DPvdNDq9gmRritEpTFV9st",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2377_b38fce3226961b2c.png"
+  "transparent": "ipfs://QmUiZPdLBrJZBaLZyVi3t2YLiJtfqcy1sSK4gufaJSqxbb",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2376_b1989369cc96cdcc.png"
 }

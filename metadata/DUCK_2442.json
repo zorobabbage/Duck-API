@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmQp8bWcq4nGdyX9t4DMCiU7jYUj3aTE9473rQjEeYKGbS",
+  "resource": "ipfs://Qma3h4wBWbGq13Xiqj4jrdNiCPYcwWPq6sBkvHH7bcQnz6",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Male Mallard"
+      "value": "Seaduck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cigarette Beak"
+      "value": "Smile Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "Surprised Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Halo"
+      "value": "Baseball Cap"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Striped Hoodie"
+      "value": "Striped Hoodie Red"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Beige"
     },
     {
       "display_type": "string",
@@ -44,7 +40,7 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
@@ -54,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmSt5WTeUFgMSUFzZTAE59mRVLCEWnAeJqodCb6TQC23k2",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2442_b39ccc6864c69b6c.png"
+  "transparent": "ipfs://QmamcSbNQSFiCSgVZCzRVYsD8DrztcADP7uCDEZ3pdpwS8",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2441_b39c9a61ec864d4d.png"
 }

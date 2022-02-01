@@ -1,45 +1,41 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmXU6fBQt3uSEvN4GRGCD35yBicf9uide8b6SFP1yGXDLq",
+  "resource": "ipfs://QmQQCwuZT2NX6Gzz6Ym5Ypy93qAiCL74Z1rFG6NwQcjjJn",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Male Mallard"
+      "value": "Shiny Mandarin"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Beak"
+      "value": "Orange Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Nerdy Glasses"
+      "value": "Surprised Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Axe"
+      "value": "Egg"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Spiked Choker"
+      "value": "DF1 White"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Lilac"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
@@ -54,14 +50,14 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "1.00%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmRhFZHjmUHr83GNLfwJcnmgV6Tiz3XKdaZAjvkheoKv17",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2718_b133c649ccc7cccc.png"
+  "transparent": "ipfs://QmS4WsPhtNwBTtMmWpvdAAGRpYRQ5TAMf6wfEBAZ6xFwCe",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2717_b29831ce67b1cc36.png"
 }

@@ -1,20 +1,16 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmZaWaX6DRL2YfYtKNoqmaJc4D75XCrYctbAJriUrTBy9q",
+  "resource": "ipfs://QmR1ymSTa6fGmGAYrQK2BKqUTmujzmYRXsP911S9FKgFSM",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Seaduck"
+      "value": "Shiny Rubber Ducky"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Blue Beak"
+      "value": "Vampire Beak"
     },
     {
       "display_type": "string",
@@ -24,27 +20,27 @@
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Fez"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Flower Lei"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Pink"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "3.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "1.25%"
     },
     {
       "display_type": "string",
@@ -54,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://Qmc93g7pq18Z6Dw8ynGEdbWmv3rMoyNAc4iorfoxWGLb8D",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2928_b19c9b61cec66938.png"
+  "transparent": "ipfs://QmUfDtVLw3xrWV8Jrq1QZoq3YMuK8Yn4zhFBhpDryvkm16",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2927_b338c6cdc1c3c966.png"
 }

@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmdLoYuLvE3T2eXrLAeL47v5ryaeVwdVLGkjoecJmd5L72",
+  "resource": "ipfs://QmcV7SrDPcHp63SEzZKBGww7JJAUGsqLJ88CKVBnJwrZoD",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Eider"
+      "value": "Pochard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Rainbow Beak"
+      "value": "Cigarette Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "Pink Glasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Police Hat"
+      "value": "Bucket Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Flower Lei"
+      "value": "Beige Deezys"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Lime"
+      "value": "Orange"
     },
     {
       "display_type": "string",
@@ -49,19 +45,19 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "1.67%"
     }
   ],
-  "transparent": "ipfs://QmeEtuEZL9Qcw2CjapbdNFfUwZZQNvFzaHA9AUMC2Z78cC",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2762_b2999364ccc6cd6c.png"
+  "transparent": "ipfs://QmcsMeDo981ckt27xYjfmEvoyrnXvT5oieX7W7AE2HQRH5",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2761_b038336dcc9b4dcc.png"
 }

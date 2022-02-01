@@ -1,25 +1,21 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmSVMQ1MtpmwsnvkAMw2YwvLz1UMvhk95yRgAgbqrpSVX9",
+  "resource": "ipfs://QmXVfAXkUskZ1ECYp3cSP3s4oREubrRT8mD7v4NHnEnCM8",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Merganser"
+      "value": "Eider"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Drooling Beak"
+      "value": "Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Crying Eyes"
+      "value": "Scuba Mask"
     },
     {
       "display_type": "string",
@@ -29,12 +25,12 @@
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Zebra Deezys"
+      "value": "Striped Hoodie"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Lime"
+      "value": "Teal"
     },
     {
       "display_type": "string",
@@ -44,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "2.50%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmSMcNwWTEQJYYTUp8hKEVuAKr5A9tMtqDH8xLpXY5zcRE",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2775_b1999e64c6936d46.png"
+  "transparent": "ipfs://Qmf4P3PAxDCziDwCZxviYvwamZhsfaRzrfEDmbErKiCvrh",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2774_b13286cdccc6cd66.png"
 }

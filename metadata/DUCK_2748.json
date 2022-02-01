@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmSnr7htXf65P3kAHNZGmQ5m1VBMADbkpxFRmrZiQG8Tzu",
+  "resource": "ipfs://QmSsWJbawdagkGoLtPaFvPf5Nx6zQo6QUACCrpVgrebGHF",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Red"
+      "value": "Shiny Male Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cracked Beak"
+      "value": "Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "Bulging Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Fez"
+      "value": "Headphones"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Camo Shirt"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Lime"
     },
     {
       "display_type": "string",
@@ -44,7 +40,7 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -54,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmXHPesPx5tyFC57vduQGwusyPGLazts5CwnB5LtHrnHsS",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2748_b332ceccc8cd9926.png"
+  "transparent": "ipfs://QmP9C6bVXVoRFdqyseKMu7xu6Ctdb1tUZoCKH9pMzdSWM7",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2747_b139c6cccdc7cc0c.png"
 }

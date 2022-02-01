@@ -1,55 +1,51 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmWnQHgJHS9yshtkLUPMP4XcBWHNdN3KJ2nZwCNTBooqVm",
+  "resource": "ipfs://QmWWrQSTYcGZ8XgXaggk84tozNLUcqviM3uWbUAdpystGW",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Shiny Pochard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Moustache Beak"
+      "value": "Orange Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyepatch"
+      "value": "Monocle"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bun"
+      "value": "Police Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Hawaiian Shirt"
+      "value": "Yellow Hoodie"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Lime"
+      "value": "Peach"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
+      "value": "2.50%"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmS77BnREAAa7Hz4azdF6b3GGyBWUwABL3iXT4x2jZYhi6",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_4139_b392c66ccc994d1b.png"
+  "transparent": "ipfs://QmS7CbF2p1VL34c5PtbawyTT8A82m6m6BGSGoX4s3iD14H",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1908_b93133cacc659acc.png"
 }

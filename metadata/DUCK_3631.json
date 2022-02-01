@@ -1,50 +1,46 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmcsWH4Rf4afu3wbSceoCgPhYvHUPK4rykzq4w3nkq6HeH",
+  "resource": "ipfs://QmPQwVHfco9Q5B4nMRppmcYnb2cXFtsi5pPfajUs2tEduY",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Eider"
+      "value": "Shiny Hulk"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Smile Beak"
+      "value": "Blue Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Crying Eyes"
+      "value": "Nerdy Glasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Baseball Cap"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Cape"
+      "value": "Striped Hoodie"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Peach"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmZrD6TJobn4eo5XKyQUiagumA1CBaSj6Jgf4EYPG3MQ9F",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3631_e6999364cccacd85.png"
+  "transparent": "ipfs://QmcC5rZpezu7vF9A6q8gbSfWea7TfBztUMSgt1NvEHtg4Z",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3630_b399cd3164cec92c.png"
 }

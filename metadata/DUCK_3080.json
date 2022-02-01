@@ -1,20 +1,16 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmX6nwFrmq43etyzPKGGJiaCSPzhu391E2kdMzgGTHhELZ",
+  "resource": "ipfs://QmUtEEJyNhu25cwwm3erJ896PYCjBP15JkhQiNPcJguwzK",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Red"
+      "value": "Eider"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cracked Beak"
+      "value": "Rainbow Beak"
     },
     {
       "display_type": "string",
@@ -24,27 +20,27 @@
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Horns"
+      "value": "Cowboy Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Tie"
+      "value": "Floatie"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Beige"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "1.33%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "2.00%"
     },
     {
       "display_type": "string",
@@ -54,14 +50,14 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "1.00%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmZxwJs6tJvrvcoPAq4FBjSDZAciv4HyP5Kbwn2f5px5c7",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3080_b198ce64d9d3c9c2.png"
+  "transparent": "ipfs://QmcmioYaT5RVaBpyMEenmHVJ1krYoySRvt6EraiFt3bSEP",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3079_e618b04dcbcccd66.png"
 }

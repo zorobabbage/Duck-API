@@ -1,50 +1,46 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmXUSu11CqZVS6Qu87fKexV1L3GT2Dt77S66NKHU53F8eS",
+  "resource": "ipfs://QmTAeEni2V6NXLZ8CoSDG9wtn4tTKgoaat28rJiCSA8ToH",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Shiny Merganser"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Beak"
+      "value": "Blue Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bandana"
+      "value": "Police Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Tie"
+      "value": "Gradient Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Beige"
+      "value": "Teal"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
@@ -59,9 +55,9 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
-  "transparent": "ipfs://QmVxNhdf7j7Gh7ZLTDWyLZVUNSffSxCLUwdbVxuHq9yT2k",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2706_b3262699ccc6cc6e.png"
+  "transparent": "ipfs://QmPZEMdEJJtT4ejRV2GPnMwdeqV39hCmbz2tVCroDza9Ab",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2705_b199c66ccec66938.png"
 }

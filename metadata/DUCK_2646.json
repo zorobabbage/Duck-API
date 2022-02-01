@@ -1,10 +1,6 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmNwEDbJn8DuiSHc9a6jNVCEsLfUJWC9DP4THNFyHzjmmW",
+  "resource": "ipfs://QmXS5KA2UATmvBnfm8HPm9V3AkwttZTVuUJAfAyEP3Mc3j",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
@@ -14,22 +10,22 @@
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Smile Beak"
+      "value": "Cigarette Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Squinty Eyes"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bun"
+      "value": "Egg"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Striped Hoodie Red"
+      "value": "DCDC Shirt"
     },
     {
       "display_type": "string",
@@ -44,24 +40,24 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "2.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Hat Rarity",
       "value": "7.50%"
     },
     {
       "display_type": "string",
-      "trait_type": "Outfit Rarity",
+      "trait_type": "Hat Rarity",
       "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmejmFxf349qRp5PUCQqgGSEaV1ENUpkc2nxF9D16EvpDo",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2646_b39ace6c648ed909.png"
+  "transparent": "ipfs://QmWbVbAwEs6pLGqchC622cEqmdWaC3sxwCpSyhUsnJha1y",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2645_b199ce6966c78926.png"
 }

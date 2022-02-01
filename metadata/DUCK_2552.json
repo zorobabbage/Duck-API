@@ -1,45 +1,41 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://Qmct9p7afde2oY9mhWShrWi5N5cGM3FLp4yQwkf1mB4sGY",
+  "resource": "ipfs://QmPN8wZXvUrLeR4XoGR91W5QgBxJGACy8Z1LpKyT5qXkVV",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Shiny Merganser"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Beak"
+      "value": "Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "Dumb Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Top Hat"
+      "value": "Fez"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Spiked Choker"
+      "value": "DUPREME Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Orange"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
@@ -54,14 +50,14 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "1.25%"
     }
   ],
-  "transparent": "ipfs://QmQj46TCj57tdSdtN4LNQgz5bsFXyYZDu5MAANAyrPtpSA",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2552_b22666cdcd919ccc.png"
+  "transparent": "ipfs://QmQn6tyPKwLm4U2MXC7KTu1MsTyiKZY8tUCUazQJng1TDN",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_2551_b199926dcc966966.png"
 }

@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmS97VQo7m87ZPxe6ZrzD4Q4TmwzLEmxVNMdyj3xRvJXof",
+  "resource": "ipfs://QmWfXQ18Gv3B6TefYxEwSDDtkWKyqN8HErRoavw8Gi2eJJ",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Pochard"
+      "value": "Male Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Beak"
+      "value": "Green Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Groucho"
+      "value": "Angry Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Police Hat"
+      "value": "Sombrero"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DF1 Purple"
+      "value": "DCDC Shirt"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Orange"
     },
     {
       "display_type": "string",
@@ -49,19 +45,19 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "1.25%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Hat Rarity",
       "value": "7.50%"
     },
     {
       "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "10.00%"
+    },
+    {
+      "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmZEudhXQGkCDeRB1cf6YEEnAPKDZqCkapoyPVZZpCeJEF",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3949_b11966c9c4c7cc6e.png"
+  "transparent": "ipfs://QmcfRZDfRxAC7CSNJhk2q4U57fg5AYnRMapnGTtXMnu5xi",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3947_b338ce4966c6cc66.png"
 }

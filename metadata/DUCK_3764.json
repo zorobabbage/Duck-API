@@ -1,20 +1,16 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmdPrx38QnMnqKZVyBoTN1ewn8w8YuaVrR1hmpx9EeW98J",
+  "resource": "ipfs://QmXwXp4jCRZdLAtSfpTqVouyfezV8pYXtoPywLxLZFVBNA",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Red"
+      "value": "Male Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Open Beak"
+      "value": "Braces Beak"
     },
     {
       "display_type": "string",
@@ -24,27 +20,27 @@
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Halo"
+      "value": "Sombrero"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Hawaiian Shirt"
+      "value": "Tie"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Blue"
     },
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "1.33%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
@@ -54,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "10.00%"
     },
     {
       "display_type": "string",
@@ -62,6 +58,6 @@
       "value": "8.57%"
     }
   ],
-  "transparent": "ipfs://QmNfCjSAFCVo6HEKF3Se5CJ45b9NYCzSyEa5PaiNtvCBxS",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3764_b199866c8cb66dcc.png"
+  "transparent": "ipfs://QmWNXjPAzaBvCBUsi2LwGHpT7tnSVwz3rugS6EmeKQwKyF",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3763_b136c619ccc6ccce.png"
 }

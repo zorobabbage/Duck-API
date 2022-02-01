@@ -1,40 +1,36 @@
 {
-  "name": "Cloud Quackers",
-  "description": "Non-Fungible Ducks",
-  "resource": "ipfs://QmZzfkjXEF1SicpTKDyH9UrXxiQnwMAYUMg2e3mUCoTPhT",
+  "resource": "ipfs://QmNwENSp3FvPhPdDzrYfjAFGSJ8SXb8ooj9JwcvhzfPrnq",
   "resource_mimetype": "image/png",
-  "external_url": "https://duck.community",
-  "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
   "attributes": [
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Male Mallard"
+      "value": "Merganser"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Normal Beak"
+      "value": "Green Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Dumb Eyes"
+      "value": "Tired Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Egg"
+      "value": "Baseball Cap"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DCDC Shirt"
+      "value": "Cape"
     },
     {
       "display_type": "string",
       "trait_type": "Background",
-      "value": "Beige"
+      "value": "Teal"
     },
     {
       "display_type": "string",
@@ -49,19 +45,19 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "1.67%"
     }
   ],
-  "transparent": "ipfs://Qmc9g4kzoo4MKuFoG8VE4jY1NjhJEGne5rHuEVJ8ARYXLL",
-  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3885_b198ce6966c78966.png"
+  "transparent": "ipfs://QmNcfpSjtmgApayDgDPMoARnzAaw8N5gcBmva9pgn9RaDn",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3884_e1999264cecbcd86.png"
 }
