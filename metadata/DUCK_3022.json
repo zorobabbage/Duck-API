@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Pochard"
     },
     {
       "display_type": "string",
@@ -15,17 +15,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Monocle"
+      "value": "Cyclops"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Rasta Hat"
+      "value": "Rice Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Tie"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "1.25%"
     },
     {
       "display_type": "string",

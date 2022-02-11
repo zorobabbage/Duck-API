@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Seaduck"
     },
     {
       "display_type": "string",
@@ -15,17 +15,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Tired Eyes"
+      "value": "Nerdy Glasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bandana"
+      "value": "Sombrero"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Footie Jersey"
+      "value": "Cape"
     },
     {
       "display_type": "string",
@@ -45,17 +45,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Hat Rarity",
       "value": "7.50%"
     },
     {
       "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "10.00%"
+    },
+    {
+      "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "1.67%"
     }
   ],
   "transparent": "ipfs://QmYf69JfMRksDjzbGRAuQ5RBhCV6d8rTZmkvuVCsrWpSHN",

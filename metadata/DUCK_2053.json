@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Goldeneye"
+      "value": "Male Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Blue Cracked Beak"
+      "value": "Blue Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyes"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Rice Hat"
+      "value": "Brain"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Floatie"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
@@ -40,7 +40,7 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmUWFmNDbNsnib93RMnesPZp3dALAvDrXjb4v4oTrm96Xn",

@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Female Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Tongue Beak"
+      "value": "Blue Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Shades"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bun"
+      "value": "Police Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DCDC Shirt"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

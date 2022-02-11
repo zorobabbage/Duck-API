@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Merganser"
+      "value": "Mandarin"
     },
     {
       "display_type": "string",
@@ -15,17 +15,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "Smug Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Egg"
+      "value": "Headphones"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DCDC Shirt"
+      "value": "Tie"
     },
     {
       "display_type": "string",
@@ -50,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

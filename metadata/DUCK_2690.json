@@ -10,22 +10,22 @@
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Beak"
+      "value": "Braces Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Cyclops"
+      "value": "Squinty Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Police Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Spiked Choker"
+      "value": "Footie Jersey"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "1.25%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
   "transparent": "ipfs://QmRKuUqgS2QkcdbDSoJAXNrHTG5PLtjDP1E3coEK3EhcyB",

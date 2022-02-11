@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Blue Open Beak"
+      "value": "Green Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Monocle"
+      "value": "Pink Glasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Fez"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Footie Jersey"
+      "value": "Purple Camo"
     },
     {
       "display_type": "string",
@@ -45,12 +45,12 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

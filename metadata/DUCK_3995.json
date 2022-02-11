@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Merganser"
+      "value": "Merganser"
     },
     {
       "display_type": "string",
@@ -15,17 +15,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Brain"
+      "value": "Propeller Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Footie Jersey"
+      "value": "Tie"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "0.91%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmNXVhaUYea7oJJ45VERGRke6RGRJFUStULCdF32G7qBh4",

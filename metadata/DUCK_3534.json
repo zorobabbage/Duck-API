@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Female Mallard"
+      "value": "Male Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Moustache Beak"
+      "value": "Green Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Nerdy Glasses"
+      "value": "Angry Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Durag"
+      "value": "Sombrero"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Yellow Hoodie"
+      "value": "Gradient Shirt"
     },
     {
       "display_type": "string",
@@ -35,12 +35,12 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "0.91%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -50,12 +50,12 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "10.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
   "transparent": "ipfs://QmPbbyiDiW8ES6cG2NMp2ztu4kNH1cL582KfgvBAZia3km",

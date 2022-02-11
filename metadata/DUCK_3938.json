@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Eider"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Vampire Beak"
+      "value": "Broken Smile"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Hypnotized Eyes"
+      "value": "Shades"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bucket Hat"
+      "value": "Sombrero"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DCDC Shirt"
+      "value": "Cape"
     },
     {
       "display_type": "string",
@@ -40,22 +40,22 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "1.25%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Eyes Rarity",
-      "value": "3.13%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Hat Rarity",
       "value": "2.78%"
     },
     {
       "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "2.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "10.00%"
+    },
+    {
+      "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "1.67%"
     }
   ],
   "transparent": "ipfs://QmQdJ1hDFnDXLi1XXbFt317SB4ZnuqhGG7ErwtoLFa7H4A",

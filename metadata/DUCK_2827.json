@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Female Mallard"
+      "value": "Eider"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cigarette Beak"
+      "value": "Orange Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "Surprised Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Brain"
+      "value": "Durag"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Floatie"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
@@ -40,7 +40,7 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -50,12 +50,12 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmeXZ8STJq9QrdcMQ4suSAfPAKajqRKXQQaL3A6yJkuFNQ",

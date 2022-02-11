@@ -5,17 +5,17 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Merganser"
+      "value": "Seaduck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Moustache Beak"
+      "value": "Blue Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Monocle"
+      "value": "Surprised Eyes"
     },
     {
       "display_type": "string",
@@ -25,7 +25,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Pepe Shirt"
+      "value": "Yellow Hoodie"
     },
     {
       "display_type": "string",
@@ -35,17 +35,17 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "0.91%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmfVQxCAKjvgNxC5Asz25LrvqeJAUETPUEJEpoU3e1ijs5",

@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Male Mallard"
+      "value": "Shiny Rubber Ducky"
     },
     {
       "display_type": "string",
@@ -20,12 +20,12 @@
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Rice Hat"
+      "value": "Rasta Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Purple Camo"
+      "value": "Striped Hoodie Red"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "3.00%"
     },
     {
       "display_type": "string",

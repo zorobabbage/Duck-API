@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Lipstick Beak"
+      "value": "Orange Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyes"
+      "value": "Groucho"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bucket Hat"
+      "value": "Halo"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Cape"
+      "value": "Tie"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "1.25%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmaBFQrwZFScQwYAihAy95c4avPJeaKGmRs6o6b3uaTiih",

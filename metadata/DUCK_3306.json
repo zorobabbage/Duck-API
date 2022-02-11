@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Goldeneye"
+      "value": "Red"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Broken Smile"
+      "value": "Rainbow Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Dumb Eyes"
+      "value": "Monocle"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Fez"
+      "value": "Halo"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Flower Lei"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
@@ -35,17 +35,17 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "1.33%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "2.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "2.50%"
     },
     {
       "display_type": "string",

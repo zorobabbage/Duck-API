@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Seaduck"
+      "value": "Shiny Merganser"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Open Beak"
+      "value": "Sax Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Bulging Eyes"
+      "value": "Smug Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Egg"
+      "value": "Top Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Striped Hoodie Red"
+      "value": "Yellow Hoodie"
     },
     {
       "display_type": "string",
@@ -35,12 +35,12 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.00%"
     },
     {
       "display_type": "string",
@@ -50,12 +50,12 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmfYbXGH6cTQTFcjRnrTn3TfbogXFY5s1Z7EpPWoJEEhWC",

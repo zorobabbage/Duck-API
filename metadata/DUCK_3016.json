@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Seaduck"
+      "value": "Hulk"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Open Beak"
+      "value": "Green Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Surprised Eyes"
+      "value": "Smug Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Zebra Deezys"
+      "value": "Black Deezys"
     },
     {
       "display_type": "string",
@@ -35,12 +35,12 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "1.33%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",

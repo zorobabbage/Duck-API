@@ -5,22 +5,22 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Female Mallard"
+      "value": "Seaduck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cracked Beak"
+      "value": "Smile Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Angry Eyes"
+      "value": "X Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Egg"
+      "value": "Top Hat"
     },
     {
       "display_type": "string",
@@ -45,12 +45,12 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Hulk"
+      "value": "Shiny Eider"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Blue Open Beak"
+      "value": "Orange Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Surprised Eyes"
+      "value": "Tired Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bandana"
+      "value": "Durag"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Pepe Shirt"
+      "value": "Striped Hoodie"
     },
     {
       "display_type": "string",
@@ -35,17 +35,17 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "1.33%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",

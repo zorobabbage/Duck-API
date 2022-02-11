@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Seaduck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Blue Cracked Beak"
+      "value": "Braces Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Squinty Eyes"
+      "value": "Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Egg"
+      "value": "Rice Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Pepe Shirt"
+      "value": "Purple Camo"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

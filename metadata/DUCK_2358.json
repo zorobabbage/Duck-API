@@ -5,22 +5,22 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Merganser"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Normal Beak"
+      "value": "Blue Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Bulging Eyes"
+      "value": "Surprised Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Baseball Cap"
+      "value": "Bun"
     },
     {
       "display_type": "string",

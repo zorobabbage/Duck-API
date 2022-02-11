@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Eider"
+      "value": "Pochard"
     },
     {
       "display_type": "string",
@@ -15,17 +15,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Scuba Mask"
+      "value": "X Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Sombrero"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Striped Hoodie"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
@@ -45,17 +45,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "10.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://Qmf4P3PAxDCziDwCZxviYvwamZhsfaRzrfEDmbErKiCvrh",

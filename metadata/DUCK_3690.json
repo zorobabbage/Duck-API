@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Eider"
+      "value": "Pochard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cigarette Beak"
+      "value": "Broken Smile"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Terminator Eyes"
+      "value": "Nerdy Glasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Baseball Cap"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DF1 White"
+      "value": "Black Deezys"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "1.67%"
     }
   ],
   "transparent": "ipfs://QmTAGWqyJNRStReoyafhpYMniryVyd765dNzz53by4xtzS",

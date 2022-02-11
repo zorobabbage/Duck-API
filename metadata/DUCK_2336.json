@@ -5,17 +5,17 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Rubber Ducky"
+      "value": "Mandarin"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Open Beak"
+      "value": "Blue Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Shades"
+      "value": "Surprised Eyes"
     },
     {
       "display_type": "string",
@@ -25,7 +25,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DCDC Shirt"
+      "value": "DF1 White"
     },
     {
       "display_type": "string",
@@ -35,17 +35,17 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "3.00%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
   "transparent": "ipfs://QmTYzcDpLHeKcTwYLHQMja91mUc9Y1DTHqXTpsMPjq8FW4",

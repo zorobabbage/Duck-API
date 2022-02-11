@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Seaduck"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Lipstick Beak"
+      "value": "Blue Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Monocle"
+      "value": "Angry Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Egg"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DF1 Purple"
+      "value": "Floatie"
     },
     {
       "display_type": "string",
@@ -35,27 +35,27 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "0.91%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Eyes Rarity",
-      "value": "2.50%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Hat Rarity",
       "value": "7.50%"
     },
     {
       "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "2.78%"
     }
   ],
   "transparent": "ipfs://QmZtgiwdyjSRLfYHEFomQ9TA1vDH1cx3SWJkuQC6JzaxjJ",

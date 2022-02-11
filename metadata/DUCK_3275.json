@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Merganser"
+      "value": "Eider"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cigarette Beak"
+      "value": "Green Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Laser Eyes"
+      "value": "Tired Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bun"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Flower Lei"
+      "value": "Beige Deezys"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "1.25%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "1.67%"
     }
   ],
   "transparent": "ipfs://QmRgXqCoXUrD4TKxBcBTncnvL2ghQPEb1jy61fb2t4sTsz",

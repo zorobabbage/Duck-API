@@ -10,22 +10,22 @@
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Moustache Beak"
+      "value": "Tongue Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Terminator Eyes"
+      "value": "Dumb Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Baseball Cap"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DF1 White"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmPGiV1NCB5nJ27H6ytMZ8hGvSd92dXNyN1qDzqeNANaTg",

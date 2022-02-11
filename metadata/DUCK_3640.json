@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Mandarin"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
@@ -15,12 +15,12 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Shades"
+      "value": "Smug Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Sombrero"
+      "value": "Baseball Cap"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "0.91%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
@@ -45,12 +45,12 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "10.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

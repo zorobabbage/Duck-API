@@ -5,17 +5,17 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Goldeneye"
+      "value": "Merganser"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Lipstick Beak"
+      "value": "Orange Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Monocle"
+      "value": "Dumb Eyes"
     },
     {
       "display_type": "string",
@@ -25,7 +25,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Flower Lei"
+      "value": "Cape"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "1.67%"
     }
   ],
   "transparent": "ipfs://QmY7iTEnu2DnUkCTRkEpdDfCSovtdfutM7j1MZNHSn6jfV",

@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Eider"
+      "value": "Hulk"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Blue Open Beak"
+      "value": "Orange Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Tired Eyes"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Sombrero"
+      "value": "Police Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Pondberry Scarf"
+      "value": "Tie"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "1.33%"
     },
     {
       "display_type": "string",
@@ -45,17 +45,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "10.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.25%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmR6oXjfZ6tBzJ4PDtm8bwkADCwCUuZaXt4ndKfwRrnYF2",

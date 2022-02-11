@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Eider"
+      "value": "Merganser"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Open Beak"
+      "value": "Green Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Terminator Eyes"
+      "value": "Dumb Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Cowboy Hat"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Footie Jersey"
+      "value": "Purple Camo"
     },
     {
       "display_type": "string",
@@ -45,12 +45,12 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

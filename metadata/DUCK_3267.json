@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Eider"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Pipe Beak"
+      "value": "Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyepatch"
+      "value": "Dumb Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Durag"
+      "value": "Rice Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DCDC Shirt"
+      "value": "Footie Jersey"
     },
     {
       "display_type": "string",
@@ -40,22 +40,22 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "1.25%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Hat Rarity",
       "value": "7.50%"
     },
     {
       "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
   "transparent": "ipfs://QmQGFSEjHx6nFLg9gbi4N3vemUd5gKGES3VprK4jyULn6g",

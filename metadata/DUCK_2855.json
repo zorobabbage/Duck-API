@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Seaduck"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
@@ -15,17 +15,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Monocle"
+      "value": "Shades"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Halo"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Cape"
+      "value": "DCDC Shirt"
     },
     {
       "display_type": "string",
@@ -50,12 +50,12 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://Qma9dUyyQkJvKEcLmAEcpKofcNbNGx6xzFsy7cHoTesMBp",

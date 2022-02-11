@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Female Mallard"
+      "value": "Shiny Pochard"
     },
     {
       "display_type": "string",
@@ -15,17 +15,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Cyclops"
+      "value": "Bulging Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Baseball Cap"
+      "value": "Police Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DF1 Red"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "1.25%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://Qme9p7tqSLkv6uXBhJggN14PM48hHP8GvhYJ1r1uAMVhQA",

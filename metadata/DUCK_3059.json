@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Pochard"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Braces Beak"
+      "value": "Green Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Sunglasses"
+      "value": "Groucho"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bucket Hat"
+      "value": "Rasta Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Camo Shirt"
+      "value": "DF1 Purple"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
+      "value": "1.25%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "1.67%"
     }
   ],
   "transparent": "ipfs://QmTJZjVgiWbbFfcTgmAF5SzABzkZ8g5djDLYyFdtUT95pn",

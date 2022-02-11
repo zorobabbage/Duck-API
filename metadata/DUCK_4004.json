@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Pochard"
+      "value": "Eider"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Beak"
+      "value": "Lipstick Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Smug Eyes"
+      "value": "X Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Headphones"
+      "value": "Baseball Cap"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Tie"
+      "value": "Yellow Hoodie"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",

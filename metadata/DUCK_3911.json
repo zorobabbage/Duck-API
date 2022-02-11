@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Rubber Ducky"
+      "value": "Rubber Ducky"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Open Beak"
+      "value": "Green Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Smug Eyes"
+      "value": "Shades"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Sombrero"
+      "value": "Police Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Hawaiian Shirt"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "3.00%"
+      "value": "1.33%"
     },
     {
       "display_type": "string",
@@ -45,12 +45,12 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "2.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "10.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

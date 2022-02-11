@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Rubber Ducky"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
@@ -15,12 +15,12 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyes"
+      "value": "Sunglasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Fez"
+      "value": "Cowboy Hat"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "1.33%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",

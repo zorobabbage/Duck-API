@@ -5,12 +5,12 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Goldeneye"
+      "value": "Domestic Duck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Open Beak"
+      "value": "Orange Open Beak"
     },
     {
       "display_type": "string",
@@ -20,12 +20,12 @@
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Hot Dog"
+      "value": "Sombrero"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Footie Jersey"
+      "value": "Frankenstein Bolts"
     },
     {
       "display_type": "string",
@@ -50,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "1.00%"
+      "value": "10.00%"
     },
     {
       "display_type": "string",

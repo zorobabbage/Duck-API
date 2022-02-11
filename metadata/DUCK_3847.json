@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Rubber Ducky"
+      "value": "Hulk"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Open Beak"
+      "value": "Orange Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Monocle"
+      "value": "Shades"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Sombrero"
+      "value": "Brain"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Black Deezys"
+      "value": "Purple Camo"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "3.00%"
+      "value": "1.33%"
     },
     {
       "display_type": "string",
@@ -50,12 +50,12 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "10.00%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "2.78%"
     }
   ],
   "transparent": "ipfs://Qmc5FUQqNnDVjzhJo9fmd66tpdDoai1u9XuzeGurZ9GYxk",

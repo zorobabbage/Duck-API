@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Eider"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Tongue Beak"
+      "value": "Blue Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Nerdy Glasses"
+      "value": "Squinty Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Police Hat"
+      "value": "Brain"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DCDC Shirt"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
@@ -40,17 +40,17 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",

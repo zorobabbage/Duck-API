@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Female Mallard"
+      "value": "Shiny Male Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Tongue Beak"
+      "value": "Green Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Censorbar"
+      "value": "Surprised Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Brain"
+      "value": "Egg"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Flower Lei"
+      "value": "Tie"
     },
     {
       "display_type": "string",
@@ -35,17 +35,17 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "1.25%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

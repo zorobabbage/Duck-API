@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Seaduck"
+      "value": "Pochard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Beak"
+      "value": "Green Cracked Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Groucho"
+      "value": "Shades"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Brain"
+      "value": "Top Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Footie Jersey"
+      "value": "DCDC Shirt"
     },
     {
       "display_type": "string",
@@ -40,22 +40,22 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "1.25%"
+      "value": "2.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmSBGjuYK2UQJGvpfogBJdGT4QNXrJgRwr7F5J8KCBxzH3",

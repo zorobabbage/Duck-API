@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Seaduck"
+      "value": "Merganser"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Cigarette Beak"
+      "value": "Tongue Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Surprised Eyes"
+      "value": "Sunglasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Rasta Hat"
+      "value": "Bucket Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Pepe Shirt"
+      "value": "DUPREME Shirt"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "1.25%"
     }
   ],
   "transparent": "ipfs://QmSMTqzKh8jCv7zbiDVwMnUE8EZFADqB3QPgtqJFrQSHqe",

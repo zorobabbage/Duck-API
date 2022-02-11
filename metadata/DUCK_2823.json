@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Female Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Cracked Beak"
+      "value": "Orange Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Scuba Mask"
+      "value": "Smug Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Headphones"
+      "value": "Top Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Gradient Shirt"
+      "value": "Flower Lei"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmQUFJaeJpQspUDCKA3BYiJTz7wzMeUtBjpUH7eoVuckvt",

@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Male Mallard"
+      "value": "Female Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Drooling Beak"
+      "value": "Daffy Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Eyepatch"
+      "value": "Shades"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Top Hat"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Flower Lei"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "1.25%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
+      "value": "2.50%"
     },
     {
       "display_type": "string",

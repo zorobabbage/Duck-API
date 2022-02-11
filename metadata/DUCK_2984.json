@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Mandarin"
+      "value": "Domestic Duck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Rainbow Beak"
+      "value": "Blue Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Crying Eyes"
+      "value": "Bulging Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bucket Hat"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DCDC Shirt"
+      "value": "Tie"
     },
     {
       "display_type": "string",
@@ -35,12 +35,12 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "0.91%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -50,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

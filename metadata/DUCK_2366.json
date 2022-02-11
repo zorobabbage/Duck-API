@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Seaduck"
+      "value": "Mandarin"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Braces Beak"
+      "value": "Smile Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Crying Eyes"
+      "value": "Scuba Mask"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Cowboy Hat"
+      "value": "Brain"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DF1 White"
+      "value": "Tie"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "2.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmZjp1qRMUz3pyz2E3AHwP1byjoywRftbDxc3gumqXdcSr",

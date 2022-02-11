@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Mandarin"
     },
     {
       "display_type": "string",
@@ -15,17 +15,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Hypnotized Eyes"
+      "value": "Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Baseball Cap"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Gradient Shirt"
+      "value": "Black Deezys"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "1.67%"
     }
   ],
   "transparent": "ipfs://QmWg9NVSBFA8anqL9VvFXqR1vsWgkdEtJKETzuUpKm4NpH",

@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Shiny Female Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Open Beak"
+      "value": "Normal Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Crying Eyes"
+      "value": "X Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bandana"
+      "value": "Durag"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Footie Jersey"
+      "value": "Camo Shirt"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmYQvW5vMqnKehjwUKcNWRajXdzeizdMFSNT6UqYPVH6RP",

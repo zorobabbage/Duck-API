@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Eider"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Drooling Beak"
+      "value": "Green Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Surprised Eyes"
+      "value": "Squinty Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bun"
+      "value": "Yellow Hardhat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Gradient Shirt"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "7.50%"
+      "value": "3.13%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmZoK2ZrqvxFZv71GGc7dZ6C1qGzCvK1m3cMVKKaNmW361",

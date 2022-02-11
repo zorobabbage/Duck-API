@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Female Mallard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Green Beak"
+      "value": "Sax Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Sunglasses"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Headphones"
+      "value": "Sombrero"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Purple Camo"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
@@ -40,22 +40,22 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
-    },
-    {
-      "display_type": "string",
-      "trait_type": "Hat Rarity",
       "value": "7.50%"
     },
     {
       "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "10.00%"
+    },
+    {
+      "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmPAwrEkKxLVDCx1Fv7atS7yHvzMZHTPAq3nn2J2RJEwPe",

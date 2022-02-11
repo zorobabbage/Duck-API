@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Pochard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Beak"
+      "value": "Green Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Shades"
+      "value": "Scuba Mask"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bun"
+      "value": "Police Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Purple Camo"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmTs9BG6AYoXWWjE6zFmEuzapuHE2TsL7jN31TnwZPSDNk",

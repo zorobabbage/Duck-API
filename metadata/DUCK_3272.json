@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Shiny Female Mallard"
+      "value": "Domestic Duck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Orange Beak"
+      "value": "Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Crying Eyes"
+      "value": "Nerdy Glasses"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Fez"
+      "value": "Bunny Ears"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Frankenstein Bolts"
+      "value": "Spiked Choker"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "0.91%"
+      "value": "9.22%"
     },
     {
       "display_type": "string",
@@ -50,12 +50,12 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "1.00%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "2.78%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmeVoRxpF3Tq36qJ8rJk274Bet4ZELjwLAN9YyNkVbrhpb",

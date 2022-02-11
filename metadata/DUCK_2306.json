@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Seaduck"
+      "value": "Domestic Duck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Moustache Beak"
+      "value": "Blue Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Dumb Eyes"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Bucket Hat"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Spiked Choker"
+      "value": "Striped Hoodie Red"
     },
     {
       "display_type": "string",
@@ -40,7 +40,7 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.00%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -50,12 +50,12 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "2.78%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "8.57%"
+      "value": "2.78%"
     }
   ],
   "transparent": "ipfs://QmSuapzhJbHa3WgrNtJpE6qmcVSq9x9fJjS1CFDxr8aLmS",

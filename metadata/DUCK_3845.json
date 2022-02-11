@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Goldeneye"
+      "value": "Shiny Pochard"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Normal Beak"
+      "value": "Open Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Nerdy Glasses"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Baseball Cap"
+      "value": "Bandana"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Spiked Choker"
+      "value": "DCDC Shirt"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "0.91%"
     },
     {
       "display_type": "string",

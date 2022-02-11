@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Female Mallard"
+      "value": "Domestic Duck"
     },
     {
       "display_type": "string",
@@ -15,12 +15,12 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Pink Glasses"
+      "value": "Groucho"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Space Helmet"
+      "value": "Bucket Hat"
     },
     {
       "display_type": "string",
@@ -45,12 +45,12 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "3.13%"
+      "value": "1.25%"
     },
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "1.00%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",

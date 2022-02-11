@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Domestic Duck"
+      "value": "Red"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Broken Smile"
+      "value": "Lipstick Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Terminator Eyes"
+      "value": "Smug Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Brain"
+      "value": "Cowboy Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Beige Deezys"
+      "value": "Red Pondberry Scarf"
     },
     {
       "display_type": "string",
@@ -35,7 +35,7 @@
     {
       "display_type": "string",
       "trait_type": "Base Rarity",
-      "value": "9.22%"
+      "value": "1.33%"
     },
     {
       "display_type": "string",
@@ -45,7 +45,7 @@
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",
@@ -55,7 +55,7 @@
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "1.25%"
     }
   ],
   "transparent": "ipfs://QmajP2G2einGLxTKCffyyDZk1xehMismLx5rxzfz1F8Fav",

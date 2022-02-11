@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Mandarin"
+      "value": "Domestic Duck"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Lipstick Beak"
+      "value": "Pipe Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Bulging Eyes"
+      "value": "Crying Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Headphones"
+      "value": "Cowboy Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "DF1 Purple"
+      "value": "Hawaiian Shirt"
     },
     {
       "display_type": "string",
@@ -40,7 +40,7 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "2.78%"
+      "value": "1.25%"
     },
     {
       "display_type": "string",
@@ -50,12 +50,12 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit Rarity",
-      "value": "1.67%"
+      "value": "8.57%"
     }
   ],
   "transparent": "ipfs://QmQASgqBQ1DxoMEbxigm44JEUHu4a6KFM4JTtoz8vKPDtT",

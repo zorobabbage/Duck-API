@@ -5,27 +5,27 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Pochard"
+      "value": "Goldeneye"
     },
     {
       "display_type": "string",
       "trait_type": "Beak",
-      "value": "Blue Open Beak"
+      "value": "Braces Beak"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Monocle"
+      "value": "Surprised Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Halo"
+      "value": "Brain"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Spiked Choker"
+      "value": "DCDC Shirt"
     },
     {
       "display_type": "string",
@@ -40,12 +40,12 @@
     {
       "display_type": "string",
       "trait_type": "Beak Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
       "trait_type": "Eyes Rarity",
-      "value": "2.50%"
+      "value": "7.50%"
     },
     {
       "display_type": "string",

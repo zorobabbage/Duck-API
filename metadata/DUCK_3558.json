@@ -5,7 +5,7 @@
     {
       "display_type": "string",
       "trait_type": "Base",
-      "value": "Merganser"
+      "value": "Seaduck"
     },
     {
       "display_type": "string",
@@ -15,17 +15,17 @@
     {
       "display_type": "string",
       "trait_type": "Eyes",
-      "value": "Dumb Eyes"
+      "value": "Bulging Eyes"
     },
     {
       "display_type": "string",
       "trait_type": "Hat",
-      "value": "Yellow Hardhat"
+      "value": "Propeller Hat"
     },
     {
       "display_type": "string",
       "trait_type": "Outfit",
-      "value": "Gradient Shirt"
+      "value": "Striped Hoodie Red"
     },
     {
       "display_type": "string",
@@ -50,7 +50,7 @@
     {
       "display_type": "string",
       "trait_type": "Hat Rarity",
-      "value": "7.50%"
+      "value": "2.78%"
     },
     {
       "display_type": "string",
