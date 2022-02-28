@@ -185,6 +185,7 @@ app.get('/rewards', async (req, res, next) => {
                     })
                 })
                 res.json(alteredData)
+                client.close() // bullish on not holding connections open 
             } catch (err) {
                 res.json(data)
             }
