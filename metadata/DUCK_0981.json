@@ -1,5 +1,9 @@
 {
-  "resource": "ipfs://QmPLaS9cEPPqwvab3ApScmy42cEzkoFGiboFEeCakLTQj3",
+  "resources": [
+    {
+      "uri": "ipfs://QmPLaS9cEPPqwvab3ApScmy42cEzkoFGiboFEeCakLTQj3"
+    }
+  ],
   "resource_mimetype": "image/png",
   "attributes": [
     {
