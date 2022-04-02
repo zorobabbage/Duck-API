@@ -196,13 +196,12 @@ app.get('/rewards', async (req, res, next) => {
     }
 })
 
-app.get('/collection_metadata', async (req, res, next) => {
-    const filePath = `/metadata/collection_metadata.json`
-
-    const data = fs.readFileSync(filePath)
-    const obj = JSON.parse(data)
-
+app.get('/metadata.json', async (req, res, next) => {
     try {
+        const filePath = `metadata.json`
+        const data = fs.readFileSync(filePath)
+        const obj = JSON.parse(data)
+        console.log(obj)
         res.status(200).json(obj)
     } catch (err) {
         err.type = 'not-found'
