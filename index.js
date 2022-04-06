@@ -52,6 +52,19 @@ app.use(cors())
 app.get('/duck/:id', async (req, res, next) => {
     const id = req.params.id
 
+    if (id === 'metadata.json') {
+        try {
+            const filePath = `metadata.json`
+            const data = fs.readFileSync(filePath)
+            const obj = JSON.parse(data)
+            res.status(200).json(obj)
+        } catch (err) {
+            err.type = 'not-found'
+            err.message = 'Collection metadata does not exist'
+            next(err)
+        }
+    }
+
     try {
         const mintedDucks = await getMinted()
         const duck = mintedDucks.filter(x => x.id == id)[0].data
@@ -196,19 +209,6 @@ app.get('/rewards', async (req, res, next) => {
     }
 })
 
-app.get('/metadata.json', async (req, res, next) => {
-    try {
-        const filePath = `metadata.json`
-        const data = fs.readFileSync(filePath)
-        const obj = JSON.parse(data)
-        console.log(obj)
-        res.status(200).json(obj)
-    } catch (err) {
-        err.type = 'not-found'
-        err.message = 'Collection metadata does not exist'
-        next(err)
-    }
-})
 
 app.use((error, req, res, next) => {
     switch (error.type) {
