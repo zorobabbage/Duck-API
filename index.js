@@ -70,7 +70,7 @@ app.get('/duck/:id', async (req, res, next) => {
         const duck = mintedDucks.filter(x => x.id == id)[0].data
         res.status(200).json(duck)
     } catch (err) {
-        res.status(404)
+        err.status(404)
         err.type = 'not-found'
         err.message = 'Duck does not exist'
         next(err)
