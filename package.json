@@ -1,6 +1,6 @@
 {
-  "name": "nfd-api",
-  "version": "0.1.0",
+  "name": "duck-api",
+  "version": "0.1.1",
   "description": "API to get NFD or multiple NFDS",
   "main": "index.js",
   "scripts": {

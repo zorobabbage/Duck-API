@@ -5,9 +5,9 @@ Also contains the rewards api to allow frontend to read MongoDB.
 
 #### .env
 Supply the following
-    MAINNET_CONTRACT
-    TESTNET_CONTRACT
-    NETWORK
+    mainnet_contract
+    testnet_contract
+    network
 
 ## NFDs
 #### Single duck

@@ -1,0 +1,4 @@
+env:
+  mainnet_contract: "0x8ab2af0cccee7195a7c16030fbdfde6501d91903"
+  testnet_contract: "0xa40c7939aa5e1cebbbcdba91b3cdb33a5b59acf4"
+  network: "testnet"

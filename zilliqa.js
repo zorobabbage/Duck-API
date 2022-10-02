@@ -2,11 +2,11 @@ const { Zilliqa } = require('@zilliqa-js/zilliqa')
 const { MessageType } = require('@zilliqa-js/subscriptions')
 
 // mainnet or testnet
-const network = process.env.NETWORK
+const network = process.env.network
 
 const nfd_contract = {
-    mainnet: process.env.MAINNET_CONTRACT,
-    testnet: process.env.TESTNET_CONTRACT 
+    mainnet: process.env.mainnet_contract,
+    testnet: process.env.testnet_contract 
 }[network]
 
 const zil_api = {
