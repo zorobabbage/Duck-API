@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/ZilDuck/nfd-api#readme",
   "dependencies": {
+    "@zilliqa-js/subscriptions": "^3.3.4",
     "@zilliqa-js/zilliqa": "^3.3.3",
-    "axois": "^0.0.1-security",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
