@@ -8,7 +8,6 @@ on:
         description: Which environment to deploy?
         type:        choice
         options:
-          - testnet
           - mainnet
       tag:
         required:    true
