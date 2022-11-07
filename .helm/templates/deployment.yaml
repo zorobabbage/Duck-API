@@ -29,7 +29,8 @@ spec:
               value: {{ .Values.env.testnet_contract | quote }}
             - name: network
               value: {{ .Values.env.network | quote }}
-
+          ports:
+            - containerPort: {{ .Values.port }}
           resources:
             limits:
               cpu: {{ .Values.resources.limits.cpu | quote }}
