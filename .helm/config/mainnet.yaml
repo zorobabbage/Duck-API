@@ -3,7 +3,7 @@ env:
   testnet_contract: "0xa40c7939aa5e1cebbbcdba91b3cdb33a5b59acf4"
   network: "mainnet"
 
-namespace: duck
+namespace: duck-mainnet
 
 image:
   app:
