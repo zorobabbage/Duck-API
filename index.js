@@ -59,9 +59,7 @@ app.get('/duck/:id', async (req, res, next) => {
             const obj = JSON.parse(data)
             res.status(200).json(obj)
         } catch (err) {
-            err.type = 'not-found'
-            err.message = 'Collection metadata does not exist'
-            next(err)
+            res.status(404).json(`{ 'error' : 'Collection metadata does not exist' }`)
         }
     }
 
@@ -70,10 +68,7 @@ app.get('/duck/:id', async (req, res, next) => {
         const duck = mintedDucks.filter(x => x.id == id)[0].data
         res.status(200).json(duck)
     } catch (err) {
-        err.status(404)
-        err.type = 'not-found'
-        err.message = 'Duck does not exist'
-        next(err)
+        res.status(404).json(`{ 'error' : 'Duck does not exist' }`)
     }
 })
 
