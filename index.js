@@ -57,18 +57,18 @@ app.get('/duck/:id', async (req, res, next) => {
             const filePath = `metadata.json`
             const data = fs.readFileSync(filePath)
             const obj = JSON.parse(data)
-            res.status(200).json(obj)
+            return res.status(200).json(obj)
         } catch (err) {
-            res.status(404).json(`{ 'error' : 'Collection metadata does not exist' }`)
+            return res.status(404).json(`{ 'error' : 'Collection metadata does not exist' }`)
         }
     }
 
     try {
         const mintedDucks = await getMinted()
         const duck = mintedDucks.filter(x => x.id == id)[0].data
-        res.status(200).json(duck)
+        return res.status(200).json(duck)
     } catch (err) {
-        res.status(404).json(`{ 'error' : 'Duck does not exist' }`)
+        return res.status(404).json(`{ 'error' : 'Duck does not exist' }`)
     }
 })
 
@@ -133,7 +133,7 @@ app.get('/ducks', async (req, res, next) => {
             resultDucks: mintedDucksSortedFiltered.slice(from - 1, newTo)
         }
 
-        res.status(200).json(result)
+        return res.status(200).json(result)
         
     } catch (err) {
         next(err)
@@ -171,7 +171,7 @@ app.get('/attributes', async (req, res, next) => {
             result.backgrounds[background] == null ? result.backgrounds[background] = 1 : result.backgrounds[background]++
         }
 
-        res.status(200).json(result)
+        return res.status(200).json(result)
     } catch (err) {
         next(err)
     }
@@ -194,9 +194,10 @@ app.get('/rewards', async (req, res, next) => {
                     })
                 })
                 res.json(alteredData)
-                client.close() // bullish on not holding connections open 
+                client.close() // bullish on not holding connections open
+                return
             } catch (err) {
-                res.json(data)
+                return res.json(data)
             }
             
         })
@@ -209,7 +210,7 @@ app.get('/rewards', async (req, res, next) => {
 app.use((error, req, res, next) => {
     switch (error.type) {
         case 'not-found':
-            res.status(200).json({
+            return res.status(200).json({
                 message: error.message
             })
     }
