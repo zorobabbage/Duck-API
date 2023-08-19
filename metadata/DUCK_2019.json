@@ -63,5 +63,7 @@
     }
   ],
   "transparent": "ipfs://QmVp9ncX8Aycg1tM4KRb9dC9segMANfLHG2SeDvZg5TogM",
-  "quick_resource": "https://duck-img.envizion.world/DUCK_2020_e3989e64c2994dce.png"
+  "quick_resource": "https://duck-img.envizion.world/DUCK_2020_e3989e64c2994dce.png",
+
+  "image": "https://duck-img.envizion.world/DUCK_2020_e3989e64c2994dce.png"
 }

@@ -63,5 +63,7 @@
     }
   ],
   "transparent": "ipfs://QmZWFcb23KmXXgxdiGbLHrvNsvbSEp54gXuEUCJWqpTF5W",
-  "quick_resource": "https://duck-img.envizion.world/DUCK_6101_b398cc4e66c79926.png"
+  "quick_resource": "https://duck-img.envizion.world/DUCK_6101_b398cc4e66c79926.png",
+
+  "image": "https://duck-img.envizion.world/DUCK_6101_b398cc4e66c79926.png"
 }
